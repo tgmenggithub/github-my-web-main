@@ -334,25 +334,55 @@
             data: function () {
                 return {
                     menuOpen: !1,
-                    items: [{
-                        title: "Student",
-                        items: [{title: "Student Programs", url: "/students"}, {
-                            title: "Octernships",
-                            url: "/students/octernships"
-                        }, {title: "Student Developer Pack", url: "/pack/offers"}, {
-                            title: "Become a Campus Expert",
-                            url: "/experts"
-                        }]
-                    }, {
-                        title: "Teacher",
-                        items: [{title: "Teacher Programs", url: "/teachers"}, {
-                            title: "GitHub Classroom",
-                            url: "https://classroom.github.com"
-                        }]
-                    }, {title: "Schools", url: "/schools"}, {title: "Benefits", url: "/benefits"}, {
-                        title: "Events",
-                        url: "/events"
-                    }]
+                    items: [
+                        {
+
+                            title: "Student",
+                            items: [
+                                {
+                                    title: "Student Programs",
+                                    url: "/students"
+                                },
+                                {
+                                    title: "Octernships",
+                                    url: "/students/octernships"
+                                },
+                                {
+                                    title: "Student Developer Pack",
+                                    url: "/pack/offers"
+                                },
+                                {
+                                    title: "Become a Campus Expert",
+                                    url: "/experts"
+                                }
+                            ]
+                        },
+                        {
+                            title: "Teacher",
+                            items: [
+                                {
+                                    title: "Teacher Programs",
+                                    url: "/teachers"
+                                },
+                                {
+                                    title: "GitHub Classroom",
+                                    url: "https://classroom.github.com"
+                                }
+                            ]
+                        },
+                        {
+                            title: "商城",
+                            url: "https://shop.githubedu.com"
+                        },
+                        {
+                            title: "博客",
+                            url: "https://xiaoma.cool"
+                        },
+                        {
+                            title: "Events",
+                            url: "/events"
+                        }
+                    ]
                 }
             }, watch: {
                 $route: function () {

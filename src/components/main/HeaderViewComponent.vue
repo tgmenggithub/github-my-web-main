@@ -1,7 +1,7 @@
 <template>
     <!--    头部-->
     <div>
-        <nav class="navigation container" data-v-83148ee2=""><a href="/" aria-current="page"
+        <nav class="navigation container header-style" data-v-83148ee2=""><a href="/" aria-current="page"
                                                                 class="nuxt-link-exact-active nuxt-link-active"
                                                                 data-v-83148ee2=""><span class="logo-wrapper"
                                                                                          data-v-70116428=""
@@ -15,43 +15,36 @@
                 <div class="dropdown" data-v-7d755f8c="" data-v-100aafa2="">
                     <button class="title" data-v-7d755f8c="">
                         Student
-                        <svg width="10" height="6" viewbox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg"
-                             data-v-7d755f8c="">
-                            <path fill-rule="evenodd" clip-rule="evenodd"
-                                  d="M9.78.22a.75.75 0 010 1.06L5.53 5.53a.75.75 0 01-1.06 0L.22 1.28A.75.75 0 011.28.22L5 3.94 8.72.22a.75.75 0 011.06 0z"
-                                  fill="currentColor"></path>
+                        <svg width="10" height="6" viewbox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg" data-v-7d755f8c="">
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M9.78.22a.75.75 0 010 1.06L5.53 5.53a.75.75 0 01-1.06 0L.22 1.28A.75.75 0 011.28.22L5 3.94 8.72.22a.75.75 0 011.06 0z" fill="currentColor"></path>
                         </svg>
                     </button>
                     <div class="submenu-wrapper" data-v-7d755f8c="">
-                        <div class="submenu" data-v-7d755f8c=""><a href="/students" data-v-7d755f8c=""
-                                                                   data-v-100aafa2="">Student Programs</a><a
-                                href="/students/octernships" data-v-7d755f8c="" data-v-100aafa2="">Octernships</a><a
-                                href="/pack/offers" data-v-7d755f8c="" data-v-100aafa2="">Student Developer Pack</a><a
-                                href="/experts" data-v-7d755f8c="" data-v-100aafa2="">Become a Campus Expert</a>
+                        <div class="submenu" data-v-7d755f8c="">
+                            <a href="/students" data-v-7d755f8c="" data-v-100aafa2="">Student Programs</a>
+                            <a href="/students/octernships" data-v-7d755f8c="" data-v-100aafa2="">Octernships</a>
+                            <a href="/pack/offers" data-v-7d755f8c="" data-v-100aafa2="">Student Developer Pack</a>
+                            <a href="/experts" data-v-7d755f8c="" data-v-100aafa2="">Become a Campus Expert</a>
                         </div>
                     </div>
                 </div><!---->
                 <div class="dropdown" data-v-7d755f8c="" data-v-100aafa2="">
                     <button class="title" data-v-7d755f8c="">
                         Teacher
-                        <svg width="10" height="6" viewbox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg"
-                             data-v-7d755f8c="">
-                            <path fill-rule="evenodd" clip-rule="evenodd"
-                                  d="M9.78.22a.75.75 0 010 1.06L5.53 5.53a.75.75 0 01-1.06 0L.22 1.28A.75.75 0 011.28.22L5 3.94 8.72.22a.75.75 0 011.06 0z"
-                                  fill="currentColor"></path>
+                        <svg width="10" height="6" viewbox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg" data-v-7d755f8c="">
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M9.78.22a.75.75 0 010 1.06L5.53 5.53a.75.75 0 01-1.06 0L.22 1.28A.75.75 0 011.28.22L5 3.94 8.72.22a.75.75 0 011.06 0z" fill="currentColor"></path>
                         </svg>
                     </button>
                     <div class="submenu-wrapper" data-v-7d755f8c="">
-                        <div class="submenu" data-v-7d755f8c=""><a href="/teachers" data-v-7d755f8c=""
-                                                                   data-v-100aafa2="">Teacher Programs</a><a
-                                href="https://classroom.github.com" data-v-7d755f8c="" data-v-100aafa2="">GitHub
-                            Classroom</a></div>
+                        <div class="submenu" data-v-7d755f8c="">
+                            <a href="/teachers" data-v-7d755f8c="" data-v-100aafa2="">Teacher Programs</a>
+                            <a href="https://classroom.github.com" data-v-7d755f8c="" data-v-100aafa2="">GitHub Classroom</a></div>
                     </div>
                 </div>
-                <a href="/schools" data-v-100aafa2="">Schools</a> <!----><a href="/benefits" data-v-100aafa2="">Benefits</a>
-                <!----><a href="/events" data-v-100aafa2="">Events</a> <!----> <a href="/sign_in"
-                                                                                  class="menu-button"
-                                                                                  data-v-100aafa2="">Sign in</a>
+                <a href="https://shop.githubedu.com" target="_blank" >商城</a>
+                <a href="https://xiaoma.cool" target="_blank" >博客</a>
+                <a href="/events" data-v-100aafa2="">Events</a>
+                <a href="/sign_in" class="menu-button" data-v-100aafa2="">Sign in</a>
             </div>
             <div class="menu-mobile" data-v-4f6a3544="" data-v-83148ee2="">
                 <div class="shadow" data-v-4f6a3544=""></div>
@@ -116,5 +109,14 @@ export default {
 </script>
 
 <style>
-
+.header-style{
+    position: fixed;
+    top: 0;
+    z-index: 100;
+    left: 0;
+    right: 0;
+    background-color: #0D1117;
+    //border: 1px solid #0808087d;
+    box-shadow: 0 10px 20px #0d1117;
+}
 </style>
