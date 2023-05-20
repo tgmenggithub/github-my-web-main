@@ -53,7 +53,7 @@
         }, r = (o(282), o(6)), component = Object(r.a)(n, (function () {
             var t = this, e = t.$createElement, o = t._self._c || e;
             return o("a", {
-                attrs: {href: t.href}, on: {
+                attrs: {href: t.href, target: "_blank"}, on: {
                     mouseenter: function (e) {
                         return t.$emit("mouseenter")
                     }, mouseleave: function (e) {
@@ -147,7 +147,7 @@
             }
         }, c = o(6), component = Object(c.a)(l, (function () {
             var t = this, e = t.$createElement;
-            return (t._self._c || e)("a", {attrs: {href: t.signedIn ? "/sign_out" : "/sign_in"}}, [t._v(t._s(t.signedIn ? "Sign out" : "Sign in"))])
+            return (t._self._c || e)("a", {attrs: {href: t.signedIn ? "/sign_out" : "/sign_in", target: "_blank"}}, [t._v(t._s(t.signedIn ? "Sign out" : "Sign in"))])
         }), [], !1, null, null, null);
         e.default = component.exports
     }, 219: function (t, e, o) {
@@ -391,7 +391,7 @@
             }
         }, r = (o(272), o(6)), component = Object(r.a)(n, (function () {
             var t = this, e = t.$createElement, o = t._self._c || e;
-            return o("nav", {staticClass: "navigation container"}, [o("NuxtLink", {attrs: {to: "/"}}, [o("LayoutLogo")], 1), t._v(" "), o("LayoutMenuDesktop", {attrs: {items: t.items}}), t._v(" "), o("LayoutMenuMobile", {attrs: {items: t.items}})], 1)
+            return o("nav", {staticClass: "navigation container header-style"}, [o("NuxtLink", {attrs: {to: "/"}}, [o("LayoutLogo")], 1), t._v(" "), o("LayoutMenuDesktop", {attrs: {items: t.items}}), t._v(" "), o("LayoutMenuMobile", {attrs: {items: t.items}})], 1)
         }), [], !1, null, "83148ee2", null);
         e.default = component.exports;
         installComponents(component, {
@@ -431,7 +431,7 @@
             }, [t._l(t.items, (function (e) {
                 return [e.url ? o("a", {
                     key: e.title,
-                    attrs: {href: e.url}
+                    attrs: {href: e.url, target: "_blank"}
                 }, [t._v(t._s(e.title))]) : t._e(), t._v(" "), e.items ? o("MenuDropdown", {
                     key: e.title,
                     attrs: {title: e.title, open: t.openDropdown === e.title},
@@ -445,7 +445,7 @@
                         }
                     }
                 }, t._l(e.items, (function (e) {
-                    return o("a", {key: e.title, attrs: {href: e.url}}, [t._v(t._s(e.title))])
+                    return o("a", {key: e.title, attrs: {href: e.url, target: "_blank"}}, [t._v(t._s(e.title))])
                 })), 0) : t._e()]
             })), t._v(" "), o("SignInButton", {staticClass: "menu-button"})], 2)
         }), [], !1, null, "100aafa2", null);
@@ -509,12 +509,12 @@
             }, [o("div", {staticClass: "overlay-inner"}, [o("div", {staticClass: "items"}, [t._l(t.items, (function (e) {
                 return [e.url ? o("a", {
                     key: e.title,
-                    attrs: {href: e.url}
+                    attrs: {href: e.url, target: "_blank"}
                 }, [t._v(t._s(e.title))]) : t._e(), t._v(" "), e.items ? o("MenuDropdownMobile", {
                     key: e.title,
                     attrs: {title: e.title}
                 }, t._l(e.items, (function (e) {
-                    return o("a", {key: e.title, attrs: {href: e.url}}, [t._v(t._s(e.title))])
+                    return o("a", {key: e.title, attrs: {href: e.url, target: "_blank"}}, [t._v(t._s(e.title))])
                 })), 0) : t._e()]
             }))], 2), t._v(" "), o("div", {staticClass: "actions"}, [o("SignInButton", {staticClass: "menu-button"})], 1)])]), t._v(" "), o("MenuButton", {
                 staticClass: "button",
@@ -655,10 +655,10 @@
                     key: e,
                     staticClass: "nav"
                 }, [n("p", {staticClass: "title"}, [t._v(t._s(nav.title))]), t._v(" "), n("ul", t._l(nav.links, (function (link, i) {
-                    return n("li", {key: i}, [n("a", {attrs: {href: link.url}}, [t._v(t._s(link.title))])])
+                    return n("li", {key: i}, [n("a", {attrs: {href: link.url, target: "_blank"}}, [t._v(t._s(link.title))])])
                 })), 0)])
-            }))], 2), t._v(" "), n("div", {staticClass: "extra"}, [n("div", {staticClass: "container"}, [n("div", {staticClass: "legal"}, [t._v("\n        GitHub Inc. ©\n        " + t._s(t.currentYear) + "\n\n        "), n("a", {attrs: {href: "https://github.com/site/terms"}}, [t._v("Terms")]), t._v(" "), n("a", {attrs: {href: "https://github.com/site/privacy"}}, [t._v("Privacy")])]), t._v(" "), n("div", {staticClass: "social"}, t._l(t.socials, (function (t, e) {
-                return n("div", {key: e}, [n("a", {attrs: {href: t.url}}, [n("img", {
+            }))], 2), t._v(" "), n("div", {staticClass: "extra"}, [n("div", {staticClass: "container"}, [n("div", {staticClass: "legal"}, [t._v("\n        GitHub Inc. ©\n        " + t._s(t.currentYear) + "\n\n        "), n("a", {attrs: {href: "https://github.com/site/terms", target: "_blank"}}, [t._v("Terms")]), t._v(" "), n("a", {attrs: {href: "https://github.com/site/privacy", target: "_blank"}}, [t._v("Privacy")])]), t._v(" "), n("div", {staticClass: "social"}, t._l(t.socials, (function (t, e) {
+                return n("div", {key: e}, [n("a", {attrs: {href: t.url, target: "_blank"}}, [n("img", {
                     attrs: {
                         src: o(290)("./" + t.img + ".svg").default,
                         alt: t.title
