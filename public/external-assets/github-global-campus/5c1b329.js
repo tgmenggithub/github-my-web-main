@@ -136,7 +136,8 @@
         var content = o(297);
         content.__esModule && (content = content.default), "string" == typeof content && (content = [[t.i, content, ""]]), content.locals && (t.exports = content.locals);
         (0, o(23).default)("5e865dfc", content, !0, {sourceMap: !1})
-    }, 212: function (t, e, o) {
+    },
+    212: function (t, e, o) {
         "use strict";
         o.r(e);
         var n = o(215), r = o.n(n), l = {
@@ -147,10 +148,11 @@
             }
         }, c = o(6), component = Object(c.a)(l, (function () {
             var t = this, e = t.$createElement;
-            return (t._self._c || e)("a", {attrs: {href: t.signedIn ? "/sign_out" : "/sign_in", target: "_blank"}}, [t._v(t._s(t.signedIn ? "Sign out" : "Sign in"))])
+            // return (t._self._c || e)("a", {attrs: {href: t.signedIn ? "/sign_out" : "/sign_in", target: "_blank"}}, [t._v(t._s(t.signedIn ? "Sign out" : "Sign in"))])
         }), [], !1, null, null, null);
         e.default = component.exports
-    }, 219: function (t, e, o) {
+    },
+    219: function (t, e, o) {
         "use strict";
         var n = {
             head: function () {
