@@ -474,25 +474,25 @@
             }
         }, d = (n(433), n(435), Object(r.a)(c, (function () {
             var t = this, e = t.$createElement, r = t._self._c || e;
-            return r("div", {staticClass: "sub-hero"}, [r("div", {
-                class: {
-                    "planet-wrapper": !0,
-                    transition: t.transition,
-                    highlight: t.highlightPlanet
-                },
-                style: "--planet-position: " + (t.highlightPlanet ? 0 : 100 * t.scrollPosition) + "px; opacity: " + (1 - t.scrollPosition)
-            }, [r("div", {
-                staticClass: "planet-back",
-                style: "background-image: url(" + n(430) + ");"
-            }), t._v(" "), r("div", {
-                staticClass: "planet-front",
-                style: "background-image: url(" + n(431) + ");"
-            })]), t._v(" "), r("div", {staticClass: "container"}, [r("div", {staticClass: "content"}, [r("h2", {staticClass: "h2"}, [t._v("We’ve got you covered")]), t._v(" "), r("p", [t._v("Learn using real-world development tools")]), t._v(" "), r("button-secondary", {
-                attrs: {
-                    href: "/benefits",
-                    text: "View the benefits"
-                }
-            })], 1), t._v(" "), r("BlocksCampusPacks")], 1)])
+            // return r("div", {staticClass: "sub-hero"}, [r("div", {
+            //     class: {
+            //         "planet-wrapper": !0,
+            //         transition: t.transition,
+            //         highlight: t.highlightPlanet
+            //     },
+            //     style: "--planet-position: " + (t.highlightPlanet ? 0 : 100 * t.scrollPosition) + "px; opacity: " + (1 - t.scrollPosition)
+            // }, [r("div", {
+            //     staticClass: "planet-back",
+            //     style: "background-image: url(" + n(430) + ");"
+            // }), t._v(" "), r("div", {
+            //     staticClass: "planet-front",
+            //     style: "background-image: url(" + n(431) + ");"
+            // })]), t._v(" "), r("div", {staticClass: "container"}, [r("div", {staticClass: "content"}, [r("h2", {staticClass: "h2"}, [t._v("We’ve got you covered")]), t._v(" "), r("p", [t._v("Learn using real-world development tools")]), t._v(" "), r("button-secondary", {
+            //     attrs: {
+            //         href: "/benefits",
+            //         text: "View the benefits"
+            //     }
+            // })], 1), t._v(" "), r("BlocksCampusPacks")], 1)])
         }), [], !1, null, "1b7cd93c", null));
         e.default = d.exports;
         installComponents(d, {ButtonSecondary: n(422).default, BlocksCampusPacks: n(423).default})

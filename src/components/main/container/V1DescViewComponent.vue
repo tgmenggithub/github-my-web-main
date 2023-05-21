@@ -1,5 +1,5 @@
 <template>
-<!--    01 介绍部分-->
+    <!--    01 介绍部分-->
     <div>
         <div class="container" data-v-7bcbb783="">
             <div class="content" data-v-7bcbb783=""><h1 class="h1" data-v-7bcbb783="">Where
@@ -9,7 +9,8 @@
                     GitHub Global Campus helps students, teachers, and schools access the
                     tools and events they need to shape the next generation of software
                     development.
-                </p> <a href="/pack/join" data-v-2b4f4d1e="" data-v-7bcbb783="">Join Global
+                </p>
+                <a href="/pack/join" data-v-2b4f4d1e="" data-v-7bcbb783="">Join Global
                     Campus
                     <svg width="16" height="16" viewbox="0 0 16 16" fill="none"
                          xmlns="http://www.w3.org/2000/svg" class="octicon octicon-chevrow"
@@ -21,7 +22,8 @@
                               stroke-linecap="round" class="octicon-chevrow-stem"
                               data-v-411b7433=""></path>
                     </svg>
-                </a></div>
+                </a>
+            </div>
         </div>
     </div>
 
@@ -29,11 +31,10 @@
 
 <script>
 
-import main from "@/views/MainView.vue";
 
 export default {
     name: "01desc",
-    components: {main},
+    components: {},
     data() {
         return {};
     },

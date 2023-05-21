@@ -103,18 +103,18 @@
         "use strict";
         n(360)
     }, 382: function (t, e, n) {
-        var r = n(22)((function (i) {
-            return i[1]
-        }));
-        r.push([t.i, ".container[data-v-f50b02f2]{position:relative;z-index:1}.item[data-v-f50b02f2]:not(:last-child){margin-bottom:5rem}@media(min-width:768px){.item[data-v-f50b02f2]{display:flex;gap:3rem;align-items:center}.item[data-v-f50b02f2]:not(:last-child){margin-bottom:3rem}}@media(max-width:767px){.item .desc[data-v-f50b02f2]{margin-bottom:2rem}}@media(min-width:768px){.item .desc[data-v-f50b02f2]{width:50%;padding-right:2rem}}@media(min-width:768px){.item .image[data-v-f50b02f2]{width:50%}}.item .image.scaled[data-v-f50b02f2]{transform:scale(1.3)}@media(min-width:768px){.item[data-v-f50b02f2]:nth-child(2n){flex-direction:row-reverse}.item:nth-child(2n) .image[data-v-f50b02f2]{text-align:center}.item:nth-child(2n) .image img[data-v-f50b02f2]{width:100%}}", ""]), r.locals = {}, t.exports = r
+        // var r = n(22)((function (i) {
+        //     return i[1]
+        // }));
+        // r.push([t.i, ".container[data-v-f50b02f2]{position:relative;z-index:1}.item[data-v-f50b02f2]:not(:last-child){margin-bottom:5rem}@media(min-width:768px){.item[data-v-f50b02f2]{display:flex;gap:3rem;align-items:center}.item[data-v-f50b02f2]:not(:last-child){margin-bottom:3rem}}@media(max-width:767px){.item .desc[data-v-f50b02f2]{margin-bottom:2rem}}@media(min-width:768px){.item .desc[data-v-f50b02f2]{width:50%;padding-right:2rem}}@media(min-width:768px){.item .image[data-v-f50b02f2]{width:50%}}.item .image.scaled[data-v-f50b02f2]{transform:scale(1.3)}@media(min-width:768px){.item[data-v-f50b02f2]:nth-child(2n){flex-direction:row-reverse}.item:nth-child(2n) .image[data-v-f50b02f2]{text-align:center}.item:nth-child(2n) .image img[data-v-f50b02f2]{width:100%}}", ""]), r.locals = {}, t.exports = r
     }, 383: function (t, e, n) {
         "use strict";
         n(361)
     }, 384: function (t, e, n) {
-        var r = n(22), o = n(221), l = n(385), c = r((function (i) {
-            return i[1]
-        })), d = o(l);
-        c.push([t.i, ".container[data-v-b846f3b4]{margin-top:-2rem;margin-bottom:-2rem;padding-top:7rem;padding-bottom:7rem;background-image:url(" + d + ");background-repeat:no-repeat;background-position:50%}@media(min-width:768px){.container[data-v-b846f3b4]{background-size:contain}}@media(max-width:767px){.container[data-v-b846f3b4]{margin-top:0;margin-bottom:0;padding-top:3rem;padding-bottom:3rem;background-size:auto}}@media(max-width:767px){.featured .card[data-v-b846f3b4]{margin-bottom:1rem}}@media(min-width:768px){.featured[data-v-b846f3b4]{display:grid;grid-template-columns:1fr 1fr;gap:3rem;padding:3rem 0}}", ""]), c.locals = {}, t.exports = c
+        // var r = n(22), o = n(221), l = n(385), c = r((function (i) {
+        //     return i[1]
+        // })), d = o(l);
+        // c.push([t.i, ".container[data-v-b846f3b4]{margin-top:-2rem;margin-bottom:-2rem;padding-top:7rem;padding-bottom:7rem;background-image:url(" + d + ");background-repeat:no-repeat;background-position:50%}@media(min-width:768px){.container[data-v-b846f3b4]{background-size:contain}}@media(max-width:767px){.container[data-v-b846f3b4]{margin-top:0;margin-bottom:0;padding-top:3rem;padding-bottom:3rem;background-size:auto}}@media(max-width:767px){.featured .card[data-v-b846f3b4]{margin-bottom:1rem}}@media(min-width:768px){.featured[data-v-b846f3b4]{display:grid;grid-template-columns:1fr 1fr;gap:3rem;padding:3rem 0}}", ""]), c.locals = {}, t.exports = c
     }, 385: function (t, e, n) {
         t.exports = n.p + "img/featured_bg.9b6eb15.png"
     }, 386: function (t, e, n) {
@@ -279,10 +279,10 @@
         "use strict";
         n(365)
     }, 412: function (t, e, n) {
-        var r = n(22), o = n(221), l = n(413), c = r((function (i) {
-            return i[1]
-        })), d = o(l);
-        c.push([t.i, ".bg-wrapper[data-v-3425f000]{background-image:url(" + d + ");background-repeat:no-repeat;background-position:50%}@media(min-width:768px){.bg-wrapper[data-v-3425f000]{background-size:contain}}.container[data-v-3425f000]{position:relative;z-index:1;margin-top:-9rem;margin-bottom:-12rem;padding-top:13rem;padding-bottom:13rem}@media(min-width:768px){.container[data-v-3425f000]{margin-top:-5rem;margin-bottom:-5rem}}.partners[data-v-3425f000]{padding:2.5rem 1rem;background-color:#0d1117;border-radius:6px}@media(min-width:768px){.partners[data-v-3425f000]{padding:4.5rem}}.header[data-v-3425f000]{margin-bottom:3rem;text-align:center}.items[data-v-3425f000]{display:flex;gap:2rem;align-items:center;justify-content:space-between}@media(max-width:767px){.items[data-v-3425f000]{flex-wrap:wrap;justify-content:center}}", ""]), c.locals = {}, t.exports = c
+        // var r = n(22), o = n(221), l = n(413), c = r((function (i) {
+        //     return i[1]
+        // })), d = o(l);
+        // c.push([t.i, ".bg-wrapper[data-v-3425f000]{background-image:url(" + d + ");background-repeat:no-repeat;background-position:50%}@media(min-width:768px){.bg-wrapper[data-v-3425f000]{background-size:contain}}.container[data-v-3425f000]{position:relative;z-index:1;margin-top:-9rem;margin-bottom:-12rem;padding-top:13rem;padding-bottom:13rem}@media(min-width:768px){.container[data-v-3425f000]{margin-top:-5rem;margin-bottom:-5rem}}.partners[data-v-3425f000]{padding:2.5rem 1rem;background-color:#0d1117;border-radius:6px}@media(min-width:768px){.partners[data-v-3425f000]{padding:4.5rem}}.header[data-v-3425f000]{margin-bottom:3rem;text-align:center}.items[data-v-3425f000]{display:flex;gap:2rem;align-items:center;justify-content:space-between}@media(max-width:767px){.items[data-v-3425f000]{flex-wrap:wrap;justify-content:center}}", ""]), c.locals = {}, t.exports = c
     }, 413: function (t, e, n) {
         t.exports = n.p + "img/partners_bg.f13db78.png"
     }, 414: function (t, e, n) {
@@ -305,18 +305,30 @@
         }));
         var r = function () {
             var t = this, e = t.$createElement, n = t._self._c || e;
-            return n("div", {staticClass: "container"}, [n("div", {staticClass: "content"}, [n("h1", {staticClass: "h1"}, [t._v("Where future developers meet")]), t._v(" "), n("p", {staticClass: "subtitle"}, [t._v("\n      GitHub Global Campus helps students, teachers, and schools access the\n      tools and events they need to shape the next generation of software\n      development.\n    ")]), t._v(" "), n("Button", {
-                attrs: {
-                    href: "/pack/join",
-                    text: "Join Global Campus"
-                }, on: {
-                    mouseenter: function (e) {
-                        return t.$emit("mouseenter")
-                    }, mouseleave: function (e) {
-                        return t.$emit("mouseleave")
-                    }
-                }
-            })], 1)])
+            return n("div", {staticClass: "container"},
+                [n("div", {staticClass: "content"},
+                    [n("h1", {staticClass: "h1"},
+                        [t._v("Our feathers are just too bright")]), t._v(" "),
+                        n("p", {staticClass: "subtitle"},
+                            // [t._v("\n      GitHub Global Campus helps students, teachers, and schools access the\n      tools and events they need to shape the next generation of software\n      development.\n    ")]),
+                            [t._v("\n      Some birds aren't meant to be caged. Their feathers are just too bright. And when they fly away, the part of you that knows it was a sin to lock them up does rejoice. Still, the place you live in is that much more drab and empty that they're gone. I guess I just miss my friend.\n    ")]),
+                        t._v(" ")
+                        // , n("Button", {
+                        //     attrs:
+                        //         {
+                        //             href: "/pack/join",
+                        //             text: "Join Global Campus"
+                        //         }
+                        //     , on:
+                        //         {
+                        //             mouseenter: function (e) {
+                        //                 return t.$emit("mouseenter")
+                        //             }, mouseleave: function (e) {
+                        //                 return t.$emit("mouseleave")
+                        //             }
+                        //         }
+                        // })
+                    ], 1)])
         }, o = []
     }, 418: function (t, e, n) {
         "use strict";
@@ -397,30 +409,32 @@
         var r = {
             data: function () {
                 return {
-                    items: [{
-                        title: "Connect with a local Campus Expert",
-                        text: "Leverage the collective knowledge of the GitHub student community so you can develop the skills needed for future careers in tech.",
-                        link: "Find an Expert",
-                        href: "/experts",
-                        img: "feature1",
-                        alt: ""
-                    }, {
-                        title: "The best developer tools, free for students",
-                        text: "The Student Developer Pack includes 100+ offers—everything from free credits to waived fees.",
-                        link: "Discover the Pack",
-                        href: "/pack",
-                        img: "feature2",
-                        alt: "",
-                        scaled: !0
-                    }, {
-                        title: "Attend curated events by our community",
-                        text: "Discover in-person and virtual events ranging from local hackathons to online tech talks covering everything from DevRel and cybersecurity to sharpening skill sets for your career as a professional developer.",
-                        link: "Browse events",
-                        href: "/events",
-                        img: "feature3",
-                        alt: "",
-                        scaled: !0
-                    }]
+                    items: [
+                        // {
+                        //     title: "Connect with a local Campus Expert",
+                        //     text: "Leverage the collective knowledge of the GitHub student community so you can develop the skills needed for future careers in tech.",
+                        //     link: "Find an Expert",
+                        //     href: "/experts",
+                        //     img: "feature1",
+                        //     alt: ""
+                        // }, {
+                        //     title: "The best developer tools, free for students",
+                        //     text: "The Student Developer Pack includes 100+ offers—everything from free credits to waived fees.",
+                        //     link: "Discover the Pack",
+                        //     href: "/pack",
+                        //     img: "feature2",
+                        //     alt: "",
+                        //     scaled: !0
+                        // }, {
+                        //     title: "Attend curated events by our community",
+                        //     text: "Discover in-person and virtual events ranging from local hackathons to online tech talks covering everything from DevRel and cybersecurity to sharpening skill sets for your career as a professional developer.",
+                        //     link: "Browse events",
+                        //     href: "/events",
+                        //     img: "feature3",
+                        //     alt: "",
+                        //     scaled: !0
+                        // }
+                    ]
                 }
             }
         }, o = (n(381), n(6)), component = Object(o.a)(r, (function () {
@@ -450,17 +464,19 @@
         var r = {
             data: function () {
                 return {
-                    items: [{
-                        title: "Review due dates for your assignments",
-                        text: 'You can also leverage the <a href="https://github.blog/2021-08-12-teaching-learning-github-classroom-visual-studio-code/" target="_blank">Visual Studio Code Classroom extension</a> to complete assignments, as well as collaborate with peers and teachers to get unblocked.',
-                        link: "Explore GitHub Classroom",
-                        href: "https://classroom.github.com"
-                    }, {
-                        title: "Rewatch recent Campus TV episodes",
-                        text: "Created by GitHub and student community leaders, which can be watched live for community chat and involvement or video-on-demand (VOD) for total schedule flexibility.",
-                        link: "View Campus TV",
-                        href: "https://www.twitch.tv/githubeducation"
-                    }]
+                    items: [
+                        // {
+                        //     title: "Review due dates for your assignments",
+                        //     text: 'You can also leverage the <a href="https://github.blog/2021-08-12-teaching-learning-github-classroom-visual-studio-code/" target="_blank">Visual Studio Code Classroom extension</a> to complete assignments, as well as collaborate with peers and teachers to get unblocked.',
+                        //     link: "Explore GitHub Classroom",
+                        //     href: "https://classroom.github.com"
+                        // }, {
+                        //     title: "Rewatch recent Campus TV episodes",
+                        //     text: "Created by GitHub and student community leaders, which can be watched live for community chat and involvement or video-on-demand (VOD) for total schedule flexibility.",
+                        //     link: "View Campus TV",
+                        //     href: "https://www.twitch.tv/githubeducation"
+                        // }
+                    ]
                 }
             }
         }, o = (n(383), n(6)), component = Object(o.a)(r, (function () {
@@ -513,20 +529,20 @@
             }
         }, o = (n(391), n(6)), component = Object(o.a)(r, (function () {
             var t = this, e = t.$createElement, r = t._self._c || e;
-            return r("div", {staticClass: "container"}, [r("div", {staticClass: "header"}, [r("h3", {staticClass: "h3"}, [r("SectionTitle", {attrs: {text: "See the Pack in action"}})], 1)]), t._v(" "), r("div", {staticClass: "items"}, t._l(t.items, (function (e, o) {
-                return r("div", {
-                    key: o,
-                    staticClass: "item"
-                }, [r("div", {staticClass: "image"}, [r("img", {
-                    attrs: {
-                        src: n(386)("./" + e.img + ".jpg"),
-                        alt: e.alt
-                    }
-                })]), t._v(" "), r("h4", {staticClass: "h3"}, [t._v(t._s(e.title))]), t._v(" "), r("p", [t._v(t._s(e.text))]), t._v(" "), r("a", {
-                    staticClass: "author",
-                    attrs: {href: "https://github.com/" + e.author, target: "_blank"}
-                }, [t._v("@" + t._s(e.author))])])
-            })), 0)])
+            // return r("div", {staticClass: "container"}, [r("div", {staticClass: "header"}, [r("h3", {staticClass: "h3"}, [r("SectionTitle", {attrs: {text: "See the Pack in action"}})], 1)]), t._v(" "), r("div", {staticClass: "items"}, t._l(t.items, (function (e, o) {
+            //     return r("div", {
+            //         key: o,
+            //         staticClass: "item"
+            //     }, [r("div", {staticClass: "image"}, [r("img", {
+            //         attrs: {
+            //             src: n(386)("./" + e.img + ".jpg"),
+            //             alt: e.alt
+            //         }
+            //     })]), t._v(" "), r("h4", {staticClass: "h3"}, [t._v(t._s(e.title))]), t._v(" "), r("p", [t._v(t._s(e.text))]), t._v(" "), r("a", {
+            //         staticClass: "author",
+            //         attrs: {href: "https://github.com/" + e.author, target: "_blank"}
+            //     }, [t._v("@" + t._s(e.author))])])
+            // })), 0)])
         }), [], !1, null, "7ba125fa", null);
         e.default = component.exports;
         installComponents(component, {SectionTitle: n(349).default})
@@ -554,25 +570,25 @@
             }
         }, o = (n(397), n(6)), component = Object(o.a)(r, (function () {
             var t = this, e = t.$createElement, r = t._self._c || e;
-            return r("div", {staticClass: "stories"}, [r("div", {staticClass: "container"}, [r("div", {staticClass: "story"}, [r("div", {staticClass: "header"}, [r("h3", {staticClass: "h3"}, [r("SectionTitle", {attrs: {text: "Classmate Stories"}})], 1), t._v(" "), r("Link", {
-                attrs: {
-                    href: "/stories",
-                    text: "See all stories"
-                }
-            })], 1), t._v(" "), r("div", {staticClass: "item"}, [r("div", {staticClass: "item__image"}, [r("img", {
-                attrs: {
-                    src: n(393)("./" + t.story.img + ".jpg"),
-                    alt: t.story.alt
-                }
-            })]), t._v(" "), r("a", {
-                staticClass: "item__title",
-                attrs: {href: t.story.href}
-            }, [r("h4", {staticClass: "h3"}, [t._v("\n            " + t._s(t.story.title) + "\n          ")])]), t._v(" "), r("p", {staticClass: "item__date"}, [t._v(t._s(t.story.date))]), t._v(" "), r("p", [t._v(t._s(t.story.text))])])]), t._v(" "), r("div", {staticClass: "testimonial"}, [r("figure", [r("blockquote", [r("p", [t._v("\n            " + t._s(t.testimonial.quote) + "\n          ")])]), t._v(" "), r("figcaption", [t._v("\n          " + t._s(t.testimonial.author) + " // " + t._s(t.testimonial.role) + "\n          "), r("div", {staticClass: "avatar"}, [r("img", {
-                attrs: {
-                    src: n(395)("./" + t.testimonial.avatar + ".jpg"),
-                    alt: ""
-                }
-            })])])])])])])
+            // return r("div", {staticClass: "stories"}, [r("div", {staticClass: "container"}, [r("div", {staticClass: "story"}, [r("div", {staticClass: "header"}, [r("h3", {staticClass: "h3"}, [r("SectionTitle", {attrs: {text: "Classmate Stories"}})], 1), t._v(" "), r("Link", {
+            //     attrs: {
+            //         href: "/stories",
+            //         text: "See all stories"
+            //     }
+            // })], 1), t._v(" "), r("div", {staticClass: "item"}, [r("div", {staticClass: "item__image"}, [r("img", {
+            //     attrs: {
+            //         src: n(393)("./" + t.story.img + ".jpg"),
+            //         alt: t.story.alt
+            //     }
+            // })]), t._v(" "), r("a", {
+            //     staticClass: "item__title",
+            //     attrs: {href: t.story.href}
+            // }, [r("h4", {staticClass: "h3"}, [t._v("\n            " + t._s(t.story.title) + "\n          ")])]), t._v(" "), r("p", {staticClass: "item__date"}, [t._v(t._s(t.story.date))]), t._v(" "), r("p", [t._v(t._s(t.story.text))])])]), t._v(" "), r("div", {staticClass: "testimonial"}, [r("figure", [r("blockquote", [r("p", [t._v("\n            " + t._s(t.testimonial.quote) + "\n          ")])]), t._v(" "), r("figcaption", [t._v("\n          " + t._s(t.testimonial.author) + " // " + t._s(t.testimonial.role) + "\n          "), r("div", {staticClass: "avatar"}, [r("img", {
+            //     attrs: {
+            //         src: n(395)("./" + t.testimonial.avatar + ".jpg"),
+            //         alt: ""
+            //     }
+            // })])])])])])])
         }), [], !1, null, "3f42b522", null);
         e.default = component.exports;
         installComponents(component, {SectionTitle: n(349).default, Link: n(344).default})
@@ -611,22 +627,22 @@
             }
         }, o = (n(403), n(6)), component = Object(o.a)(r, (function () {
             var t = this, e = t.$createElement, r = t._self._c || e;
-            return r("div", {staticClass: "container"}, [r("div", {staticClass: "header"}, [r("h2", {staticClass: "h2"}, [r("SectionTitle", {attrs: {text: "Upcoming events"}})], 1), t._v(" "), r("Link", {
-                attrs: {
-                    href: "/pack/join",
-                    text: "Join Global Campus to attend"
-                }
-            })], 1), t._v(" "), r("div", {staticClass: "items"}, t._l(t.items, (function (e, o) {
-                return r("div", {
-                    key: o,
-                    staticClass: "item"
-                }, [r("div", {staticClass: "image"}, [r("img", {
-                    attrs: {
-                        src: n(399)("./" + e.img + ".jpg"),
-                        alt: e.alt
-                    }
-                })]), t._v(" "), r("h4", {staticClass: "h3"}, [t._v(t._s(e.title))]), t._v(" "), r("p", {staticClass: "date"}, [t._v(t._s(e.date))]), t._v(" "), r("p", [t._v(t._s(e.text))]), t._v(" "), r("p", {staticClass: "location"}, [t._v(t._s(e.location))])])
-            })), 0)])
+            // return r("div", {staticClass: "container"}, [r("div", {staticClass: "header"}, [r("h2", {staticClass: "h2"}, [r("SectionTitle", {attrs: {text: "Upcoming events"}})], 1), t._v(" "), r("Link", {
+            //     attrs: {
+            //         href: "/pack/join",
+            //         text: "Join Global Campus to attend"
+            //     }
+            // })], 1), t._v(" "), r("div", {staticClass: "items"}, t._l(t.items, (function (e, o) {
+            //     return r("div", {
+            //         key: o,
+            //         staticClass: "item"
+            //     }, [r("div", {staticClass: "image"}, [r("img", {
+            //         attrs: {
+            //             src: n(399)("./" + e.img + ".jpg"),
+            //             alt: e.alt
+            //         }
+            //     })]), t._v(" "), r("h4", {staticClass: "h3"}, [t._v(t._s(e.title))]), t._v(" "), r("p", {staticClass: "date"}, [t._v(t._s(e.date))]), t._v(" "), r("p", [t._v(t._s(e.text))]), t._v(" "), r("p", {staticClass: "location"}, [t._v(t._s(e.location))])])
+            // })), 0)])
         }), [], !1, null, "1c92890e", null);
         e.default = component.exports;
         installComponents(component, {SectionTitle: n(349).default, Link: n(344).default})
@@ -644,17 +660,17 @@
             }
         }, o = (n(411), n(6)), component = Object(o.a)(r, (function () {
             var t = this, e = t.$createElement, r = t._self._c || e;
-            return r("div", {staticClass: "bg-wrapper"}, [r("div", {staticClass: "container"}, [r("div", {staticClass: "partners"}, [r("div", {staticClass: "header"}, [r("h3", {staticClass: "h3"}, [t._v("Some of our partners and friends")]), t._v(" "), r("p", {staticClass: "subtitle"}, [t._v("\n          The best developer tools, free for students. Learn to ship software\n          like a pro.\n        ")]), t._v(" "), r("Link", {
-                attrs: {
-                    href: "/pack",
-                    text: "See all partners"
-                }
-            })], 1), t._v(" "), r("div", {staticClass: "items"}, t._l(t.partners, (function (t, e) {
-                return r("div", {
-                    key: e,
-                    staticClass: "item"
-                }, [r("img", {attrs: {src: n(405)("./" + t.img + ".svg").default, alt: t.alt}})])
-            })), 0)])])])
+            // return r("div", {staticClass: "bg-wrapper"}, [r("div", {staticClass: "container"}, [r("div", {staticClass: "partners"}, [r("div", {staticClass: "header"}, [r("h3", {staticClass: "h3"}, [t._v("Some of our partners and friends")]), t._v(" "), r("p", {staticClass: "subtitle"}, [t._v("\n          The best developer tools, free for students. Learn to ship software\n          like a pro.\n        ")]), t._v(" "), r("Link", {
+            //     attrs: {
+            //         href: "/pack",
+            //         text: "See all partners"
+            //     }
+            // })], 1), t._v(" "), r("div", {staticClass: "items"}, t._l(t.partners, (function (t, e) {
+            //     return r("div", {
+            //         key: e,
+            //         staticClass: "item"
+            //     }, [r("img", {attrs: {src: n(405)("./" + t.img + ".svg").default, alt: t.alt}})])
+            // })), 0)])])])
         }), [], !1, null, "3425f000", null);
         e.default = component.exports;
         installComponents(component, {Link: n(344).default})

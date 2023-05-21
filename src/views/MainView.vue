@@ -23,7 +23,7 @@ export default {
     components: {
         HeaderViewComponent,
         ContainerViewComponent,
-        FooterViewComponent
+        FooterViewComponent,
     },
     data() {
         return {};
