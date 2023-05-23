@@ -32,8 +32,11 @@
     "@vue/cli-service": "~5.0.0",
     "eslint": "^7.32.0",
     "eslint-plugin-vue": "^8.0.3",
+    "node-sass": "^8.0.0",
+    "sass-loader": "^13.2.2",
     "unplugin-auto-import": "^0.14.3",
-    "unplugin-vue-components": "^0.24.0"
+    "unplugin-vue-components": "^0.24.0",
+    "vue-loader": "^14.2.4"
   },
   "eslintConfig": {
     "root": true,

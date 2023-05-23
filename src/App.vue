@@ -1,37 +1,12 @@
 <template>
     <div>
-        <MainView></MainView>
     </div>
 </template>
 
 <script setup>
-import MainView from "@/views/MainView.vue";
 
-// 这块是这些js没法加载，所以在页面所有元素加载完之后，再加载一次
-window.addEventListener('load', function () {
-    loadScript("external-assets/github-global-campus/ade34ff.js");
-    loadScript("external-assets/github-global-campus/1ce77db.js");
-    loadScript("external-assets/github-global-campus/848bfa7.js");
-    loadScript("external-assets/github-global-campus/5c1b329.js");
-    loadProduct();
-})
 
-function loadScript(src){
-    var script = document.createElement("script");
-    script.src = src;
-    script.defer = true;
-    document.body.appendChild(script);
-}
-
-function loadProduct(){
-    var script = document.createElement("script");
-    script.src = "external-assets/github-global-campus/ade34ff.js";
-    script.defer = true;
-    document.body.appendChild(script);
-}
-// const locationIsAdmire = location.href.endsWith('admire') || location.href.endsWith('admire/');
-
-//控制台检测
+// 控制台检测
 // (function () {
 //     var fn = [],
 //         timeLimit = 50,
