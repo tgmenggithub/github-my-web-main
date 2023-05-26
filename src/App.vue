@@ -1,10 +1,11 @@
 <template>
     <div>
+        <MainView></MainView>
     </div>
 </template>
 
 <script setup>
-
+import MainView from "@/views/MainView.vue";
 
 // 控制台检测
 // (function () {
