@@ -4,10 +4,10 @@
             <div class="planet-wrapper transition" style="--planet-position:0px;opacity:1"
                  data-v-1b7cd93c="">
                 <div class="planet-back"
-                     style="background-image:url(../../../assets/main/img/planet-back.d464ec5.png)"
+                     :style="`background-image:url(${require('@/assets/main/img/planet-back.d464ec5.png')})`"
                      data-v-1b7cd93c=""></div>
                 <div class="planet-front"
-                     style="background-image:url(../../../assets/main/img/planet-front.1fa7dc5.png)"
+                     :style="`background-image:url(${require('@/assets/main/img/planet-front.1fa7dc5.png')})`"
                      data-v-1b7cd93c=""></div>
             </div>
             <div class="container" data-v-1b7cd93c="">
