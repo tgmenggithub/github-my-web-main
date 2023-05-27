@@ -7,6 +7,7 @@
                         <!--1顶部大片-->
                         <Component1Top></Component1Top>
                         <!--2产品列表-->
+                        <Component2ProductMy></Component2ProductMy>
                         <Component2ProductList></Component2ProductList>
                         <!--3合作联系-->
                         <Component3Cooperation></Component3Cooperation>
@@ -32,6 +33,7 @@
 <script>
 import Component1Top from "./ContentComponent/Component1Top.vue";
 import Component2ProductList from "./ContentComponent/Component2ProductList.vue";
+import Component2ProductMy from "./ContentComponent/Component2ProductMy.vue";
 import Component3Cooperation from "./ContentComponent/Component3Cooperation.vue";
 import Component4RecentInfo from "./ContentComponent/Component4RecentInfo.vue";
 import Component5ProductScenario from "./ContentComponent/Component5ProductScenario.vue";
@@ -42,7 +44,7 @@ import Component9JoinUs from "./ContentComponent/Component9JoinUs.vue";
 
 export default {
     name: "Content",
-    components: {Component1Top, Component2ProductList, Component3Cooperation, Component4RecentInfo, Component5ProductScenario, Component6Story, Component7Future, Component8BusinessPartner, Component9JoinUs},
+    components: {Component1Top, Component2ProductList, Component2ProductMy, Component3Cooperation, Component4RecentInfo, Component5ProductScenario, Component6Story, Component7Future, Component8BusinessPartner, Component9JoinUs},
     data() {
         return {};
     },

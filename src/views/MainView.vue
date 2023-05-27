@@ -308,7 +308,7 @@ pre[class*=language-] {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-top: 1rem;
+    padding-top: 2rem;
     padding-bottom: 1rem;
     font-size: var(--fs-small)
 }
