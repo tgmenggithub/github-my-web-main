@@ -636,7 +636,7 @@ svg[data-v-4b086efc] {
 }
 
 .subtitle[data-v-7bcbb783] {
-    margin-bottom: 1.5rem
+    margin-bottom: 5rem
 }
 
 a[data-v-2b4f4d1e] {
