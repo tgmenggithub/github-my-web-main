@@ -21,12 +21,12 @@ export default {
         return {
             cards: [
                 {
-                    image: "https://i.redd.it/b3esnz5ra34y.jpg",
+                    image: "https://freight.cargo.site/w/1024/i/ade715581e7533554249adf217361ca30f527701ec402edd68c612055818f20a/infinite_text_v3.gif",
                     title: "Midjourney",
                     titleClass: "title-white"
                 },
                 {
-                    image: "https://cdn.blackmilkclothing.com/media/wysiwyg/Wallpapers/PhoneWallpapers_FloralCoral.jpg",
+                    image: "https://i.gifer.com/origin/da/dac535ed5a20a1eef613e265f195505f_w200.gif",
                     title: "ChatGPT Plus",
                     titleClass: "title-white"
                 },
@@ -36,25 +36,10 @@ export default {
                     titleClass: "title-white"
                 },
                 {
-                    image: "https://media.giphy.com/media/LwIyvaNcnzsD6/giphy.gif",
+                    image: "https://media4.giphy.com/media/IWiAPmq1HS9QZRu8PT/200w.gif",
                     title: "Jetbrains全家桶",
-                    titleClass: "title-black"
-                },
-                {
-                    image: "https://media.giphy.com/media/10SvWCbt1ytWCc/giphy.gif",
-                    title: "Card Title",
                     titleClass: "title-white"
                 },
-                {
-                    image: "https://media.giphy.com/media/LwIyvaNcnzsD6/giphy.gif",
-                    title: "Card Title",
-                    titleClass: "title-black"
-                },
-                {
-                    image: "https://media.giphy.com/media/LwIyvaNcnzsD6/giphy.gif",
-                    title: "Card Title",
-                    titleClass: "title-black"
-                }
             ]
         };
     },
@@ -130,7 +115,7 @@ export default {
 
 /*
 .card {
-  margin: 30px auto;
+margin: 30px auto;
   width: 300px;
   height: 300px;
   border-radius: 40px;

@@ -8,21 +8,21 @@
                         <Component1Top></Component1Top>
                         <!--2产品列表-->
                         <Component2ProductMy></Component2ProductMy>
-                        <Component2ProductList></Component2ProductList>
-                        <!--3合作联系-->
-                        <Component3Cooperation></Component3Cooperation>
-                        <!--4近期资讯-->
-                        <Component4RecentInfo></Component4RecentInfo>
-                        <!--5产品场景-->
-                        <Component5ProductScenario></Component5ProductScenario>
-                        <!--6故事讲述-->
-                        <Component6Story></Component6Story>
-                        <!--7未来计划-->
-                        <Component7Future></Component7Future>
-                        <!--8合作商-->
-                        <Component8BusinessPartner></Component8BusinessPartner>
-                        <!--9加入我们-->
-                        <Component9JoinUs></Component9JoinUs>
+<!--                        <Component2ProductList></Component2ProductList>-->
+<!--                        &lt;!&ndash;3合作联系&ndash;&gt;-->
+<!--                        <Component3Cooperation></Component3Cooperation>-->
+<!--                        &lt;!&ndash;4近期资讯&ndash;&gt;-->
+<!--                        <Component4RecentInfo></Component4RecentInfo>-->
+<!--                        &lt;!&ndash;5产品场景&ndash;&gt;-->
+<!--                        <Component5ProductScenario></Component5ProductScenario>-->
+<!--                        &lt;!&ndash;6故事讲述&ndash;&gt;-->
+<!--                        <Component6Story></Component6Story>-->
+<!--                        &lt;!&ndash;7未来计划&ndash;&gt;-->
+<!--                        <Component7Future></Component7Future>-->
+<!--                        &lt;!&ndash;8合作商&ndash;&gt;-->
+<!--                        <Component8BusinessPartner></Component8BusinessPartner>-->
+<!--                        &lt;!&ndash;9加入我们&ndash;&gt;-->
+<!--                        <Component9JoinUs></Component9JoinUs>-->
                     </div>
                 </div>
             </main>

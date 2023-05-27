@@ -2,7 +2,8 @@
     <div>
         <div class="layout">
             <HeaderComponent></HeaderComponent>
-            <ContentComponent></ContentComponent>
+            <ContactView v-if="isConnect"></ContactView>
+            <ContentComponent v-else></ContentComponent>
             <FooterComponent></FooterComponent>
         </div>
     </div>
@@ -12,20 +13,26 @@
 import HeaderComponent from "@/components/Header/HeaderComponent.vue";
 import ContentComponent from "@/components/Content/ContentComponent.vue";
 import FooterComponent from "@/components/Footer/FooterComponent.vue";
+import ContactView from "@/views/ContactView.vue";
 
 export default {
     name: "Main",
-    components: {HeaderComponent, ContentComponent, FooterComponent},
+    components: {HeaderComponent, ContentComponent, FooterComponent, ContactView},
     data() {
         return {
+            locationIsContact: location.href.endsWith('contact') || location.href.endsWith('contact/')
         };
     },
-    methods: {
-    },
+    methods: {},
     mounted() {
     },
     beforeUnmount() {
     },
+    computed: {
+        isConnect() {
+            return this.$store.state.isConnect
+        }
+    }
 }
 </script>
 
@@ -618,8 +625,7 @@ svg[data-v-4b086efc] {
 .container[data-v-7bcbb783] {
     margin-bottom: -10rem;
     padding-bottom: 10rem;
-    background-image: url(../assets/main/img/hero_bg.2fff21e.svg);
-    background-repeat: no-repeat
+//background-image: url(../assets/main/img/hero_bg.2fff21e.svg); background-repeat: no-repeat
 }
 
 .content[data-v-7bcbb783] {
@@ -631,7 +637,7 @@ svg[data-v-4b086efc] {
 
 @media (min-width: 768px) {
     .content[data-v-7bcbb783] {
-        padding-top: 10rem
+        padding-top: 7rem
     }
 }
 
@@ -1266,7 +1272,7 @@ figcaption[data-v-3f42b522] {
 }
 
 .container[data-v-0c408e68] {
-    background-image: url(../assets/main/img/join_bg.629bc49.svg)
+//background-image: url(../assets/main/img/join_bg.629bc49.svg)
 }
 
 .join[data-v-0c408e68] {
