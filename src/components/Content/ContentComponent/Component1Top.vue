@@ -4,7 +4,7 @@
 <!--            <div class="content" data-v-7bcbb783=""><h1 class="h1" data-v-7bcbb783="">Where future developers meet</h1>-->
             <div class="content" data-v-7bcbb783=""><h1 class="h1" data-v-7bcbb783="">Freedom is <br/> the best of things</h1>
                 <p class="subtitle" data-v-7bcbb783="">
-                    We have to remind ourselves that some birds aren't meant to be caged, because their feathers are just too bright.
+                    We have to remind ourselves that some birds aren't meant to be caged,<br/> because their feathers are just too bright.
                 </p>
                 <a href="/pack/join" data-v-2b4f4d1e="" data-v-7bcbb783="">Join Global Campus
                     <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class="octicon octicon-chevrow" data-v-411b7433="" data-v-2b4f4d1e="">
