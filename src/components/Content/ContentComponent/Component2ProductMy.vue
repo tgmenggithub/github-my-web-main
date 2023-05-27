@@ -101,7 +101,7 @@ export default {
   border-radius: 0px 0px 40px 40px;
   font-family: sans-serif;
   font-weight: bold;
-  font-size: 25px;
+  font-size: 23px;
   margin-top: -80px;
   height: 40px;
 }
