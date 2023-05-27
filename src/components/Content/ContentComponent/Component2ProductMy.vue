@@ -4,7 +4,7 @@
             <div class="card" v-for="(card, index) in cards" :key="index">
                 <a :href="card.targetUrl" target="_blank" style="height: 100%">
                     <div class="card_image">
-                        <img :src="card.image" />
+                        <img :src="card.image"/>
                     </div>
                     <div class="card_title" :class="card.titleClass">
                         <p>{{ card.title }}</p>
@@ -23,13 +23,13 @@ export default {
         return {
             cards: [
                 {
-                    image: "https://freight.cargo.site/w/1024/i/ade715581e7533554249adf217361ca30f527701ec402edd68c612055818f20a/infinite_text_v3.gif",
+                    image: `${require('@/assets/main/gif/Midjourney.gif')}`,
                     title: "Midjourney",
                     titleClass: "title-white",
                     targetUrl: "https://chat.anybodyai.com"
                 },
                 {
-                    image: "https://i.gifer.com/origin/da/dac535ed5a20a1eef613e265f195505f_w200.gif",
+                    image: `${require('@/assets/main/gif/ChatGPTPlus.gif')}`,
                     title: "ChatGPT Plus",
                     titleClass: "title-white",
                     targetUrl: "https://chat.anybodyai.com"
@@ -41,7 +41,7 @@ export default {
                     targetUrl: "https://githubedu.com"
                 },
                 {
-                    image: "https://media4.giphy.com/media/IWiAPmq1HS9QZRu8PT/200w.gif",
+                    image: `${require('@/assets/main/gif/Jetbrains.gif')}`,
                     title: "Jetbrains全家桶",
                     titleClass: "title-white",
                     targetUrl: "https://githubedu.com/jetbrains"
@@ -69,7 +69,7 @@ export default {
   width: 12rem;
   height: 12rem;
   border-radius: 40px;
-  box-shadow: 5px 5px 30px 7px rgba(0,0,0,0.25), -5px -5px 30px 7px rgba(0,0,0,0.22);
+  box-shadow: 5px 5px 30px 7px rgba(0, 0, 0, 0.25), -5px -5px 30px 7px rgba(0, 0, 0, 0.22);
   cursor: pointer;
   transition: 0.4s;
 }
@@ -99,8 +99,8 @@ export default {
 
 .card:hover {
   transform: scale(0.9, 0.9);
-  box-shadow: 5px 5px 30px 15px rgba(0,0,0,0.25),
-  -5px -5px 30px 15px rgba(0,0,0,0.22);
+  box-shadow: 5px 5px 30px 15px rgba(0, 0, 0, 0.25),
+  -5px -5px 30px 15px rgba(0, 0, 0, 0.22);
 }
 
 .title-white {
