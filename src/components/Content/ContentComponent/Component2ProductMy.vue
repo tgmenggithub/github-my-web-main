@@ -2,7 +2,7 @@
     <div>
         <div class="cards-list">
             <div class="card" v-for="(card, index) in cards" :key="index">
-                <a :href="card.targetUrl" target="_blank" style="height: 100%">
+                <a :href="card.targetUrl" target="_blank" style="height: 100%;width: 100%">
                     <div class="card_image">
                         <img :src="card.image"/>
                     </div>
