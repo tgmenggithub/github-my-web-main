@@ -7,7 +7,7 @@
 <script setup>
 import MainView from "@/views/MainView.vue";
 
-控制台检测
+// 控制台检测
 (function () {
     var fn = [],
         timeLimit = 50,
