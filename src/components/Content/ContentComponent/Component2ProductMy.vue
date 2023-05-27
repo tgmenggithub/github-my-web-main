@@ -2,12 +2,14 @@
     <div>
         <div class="cards-list">
             <div class="card" v-for="(card, index) in cards" :key="index">
-                <div class="card_image">
-                    <img :src="card.image" />
-                </div>
-                <div class="card_title" :class="card.titleClass">
-                    <p>{{ card.title }}</p>
-                </div>
+                <a :href="card.targetUrl" target="_blank" style="height: 100%">
+                    <div class="card_image">
+                        <img :src="card.image" />
+                    </div>
+                    <div class="card_title" :class="card.titleClass">
+                        <p>{{ card.title }}</p>
+                    </div>
+                </a>
             </div>
         </div>
     </div>
@@ -23,22 +25,26 @@ export default {
                 {
                     image: "https://freight.cargo.site/w/1024/i/ade715581e7533554249adf217361ca30f527701ec402edd68c612055818f20a/infinite_text_v3.gif",
                     title: "Midjourney",
-                    titleClass: "title-white"
+                    titleClass: "title-white",
+                    targetUrl: "https://chat.anybodyai.com"
                 },
                 {
                     image: "https://i.gifer.com/origin/da/dac535ed5a20a1eef613e265f195505f_w200.gif",
                     title: "ChatGPT Plus",
-                    titleClass: "title-white"
+                    titleClass: "title-white",
+                    targetUrl: "https://chat.anybodyai.com"
                 },
                 {
                     image: "https://media.giphy.com/media/10SvWCbt1ytWCc/giphy.gif",
                     title: "GitHub学生包",
-                    titleClass: "title-white"
+                    titleClass: "title-white",
+                    targetUrl: "https://githubedu.com"
                 },
                 {
                     image: "https://media4.giphy.com/media/IWiAPmq1HS9QZRu8PT/200w.gif",
                     title: "Jetbrains全家桶",
-                    titleClass: "title-white"
+                    titleClass: "title-white",
+                    targetUrl: "https://githubedu.com/jetbrains"
                 },
             ]
         };

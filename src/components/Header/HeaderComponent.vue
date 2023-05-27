@@ -9,6 +9,7 @@
                     </span>
                 </a>
                 <div class="menu-desktop" data-v-100aafa2="" data-v-83148ee2="">
+                    <a style="cursor: pointer" @click="clickLogo" data-v-100aafa2="">首页</a>
                     <div class="dropdown" data-v-7d755f8c="" data-v-100aafa2="" v-hover-class="'open'">
                         <button class="title" data-v-7d755f8c="">
                             产品
@@ -60,6 +61,7 @@
                                 <!--                                    <div data-v-538d6fa0="" class="submenu"><a data-v-4f6a3544="" data-v-538d6fa0="" href="/students">Student Programs</a><a data-v-4f6a3544="" data-v-538d6fa0="" href="/students/octernships">Octernships</a><a data-v-4f6a3544="" data-v-538d6fa0="" href="/pack/offers">Student Developer Pack</a><a data-v-4f6a3544="" data-v-538d6fa0="" href="/experts">Become a Campus Expert</a></div>-->
                                 <!--                                </div>-->
                                 <!--                            </div>-->
+                                <a style="cursor: pointer" @click="clickLogo" data-v-4f6a3544="">首页</a>
                                 <div tabindex="0" class="dropdown" data-v-538d6fa0="" data-v-4f6a3544="" v-click-small-list-class="'isOpen'">
                                     <button class="title" data-v-538d6fa0="">
                                         产品
@@ -78,7 +80,7 @@
                                 </div>
                                 <a href="https://xiaoma.cool" target="_blank" data-v-4f6a3544="">博客</a>
                                 <a href="https://shop.githubedu.com" data-v-4f6a3544="">商城</a>
-                                <a href="/events" target="_blank" data-v-4f6a3544="">关于</a>
+                                <a style="cursor: pointer" @click="clickShouHou" data-v-4f6a3544="">售后</a>
                             </div>
                             <!--                        <div class="actions" data-v-4f6a3544="">-->
                             <!--                            <a href="/sign_in" class="menu-button" data-v-4f6a3544="">Sign in</a>-->

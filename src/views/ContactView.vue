@@ -47,6 +47,7 @@ export default {
 <style scoped>
 .main{
     margin-top: 10rem;
+    margin-bottom: 5rem;
 }
 
 .cards-list {

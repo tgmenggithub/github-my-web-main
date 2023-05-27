@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="py-6">
+        <div class="py-6 main-style">
             <main>
                 <div class="mx-auto max-w-7xl sm:px-6 lg:px-8">
                     <div>
@@ -54,5 +54,7 @@ export default {
 </script>
 
 <style scoped>
-
+.main-style{
+    margin-bottom: 5rem;
+}
 </style>
