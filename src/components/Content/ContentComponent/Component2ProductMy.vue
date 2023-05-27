@@ -23,25 +23,25 @@ export default {
         return {
             cards: [
                 {
-                    image: `${require('@/assets/main/gif/Midjourney.gif')}`,
+                    image: "https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/gif/Midjourney.gif",
                     title: "Midjourney",
                     titleClass: "title-white",
                     targetUrl: "https://chat.anybodyai.com"
                 },
                 {
-                    image: `${require('@/assets/main/gif/ChatGPTPlus.gif')}`,
+                    image: "https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/gif/ChatGPTPlus.gif",
                     title: "ChatGPT Plus",
                     titleClass: "title-white",
                     targetUrl: "https://chat.anybodyai.com"
                 },
                 {
-                    image: "https://media.giphy.com/media/10SvWCbt1ytWCc/giphy.gif",
+                    image: "https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/gif/GitHubStudentPack.gif",
                     title: "GitHub学生包",
                     titleClass: "title-white",
                     targetUrl: "https://githubedu.com"
                 },
                 {
-                    image: `${require('@/assets/main/gif/Jetbrains.gif')}`,
+                    image: "https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/gif/Jetbrains.gif",
                     title: "Jetbrains全家桶",
                     titleClass: "title-white",
                     targetUrl: "https://githubedu.com/jetbrains"
