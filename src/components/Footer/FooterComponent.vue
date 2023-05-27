@@ -48,7 +48,7 @@
             <!--            </div>-->
             <div class="extra" data-v-363e9324="">
                 <div class="container" data-v-363e9324="">
-                    <div class="legal" data-v-363e9324="">糖果屋 Inc. © {{ currentYear }}
+                    <div class="legal" data-v-363e9324="">糖果梦 Inc. © {{ currentYear }}
                         <a href="https://xiaoma.cool" target="_blank" data-v-363e9324="">博客</a>
                         <a href="https://shop.githubedu.com" target="_blank" data-v-363e9324="">商城</a>
                     </div>

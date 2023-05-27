@@ -5,7 +5,7 @@
                 <a style="cursor: pointer" @click="clickLogo" aria-current="page" class="nuxt-link-exact-active nuxt-link-active" data-v-83148ee2="">
                     <span class="logo-wrapper" data-v-70116428="" data-v-83148ee2="">
                         <img class="logo-image" data-v-70116428="" data-v-83148ee2="" src="../../assets/main/img/logo.png">
-                      &nbsp;&nbsp;糖果屋
+                      &nbsp;&nbsp;糖果梦
                     </span>
                 </a>
                 <div class="menu-desktop" data-v-100aafa2="" data-v-83148ee2="">
