@@ -26,20 +26,22 @@
                             </div>
                         </div>
                     </div>
-                    <div class="dropdown" data-v-7d755f8c="" data-v-100aafa2="" v-hover-class="'open'">
-                        <button class="title" data-v-7d755f8c="">
-                            教程
-                            <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg" data-v-7d755f8c="">
-                                <path fill-rule="evenodd" clip-rule="evenodd" d="M9.78.22a.75.75 0 010 1.06L5.53 5.53a.75.75 0 01-1.06 0L.22 1.28A.75.75 0 011.28.22L5 3.94 8.72.22a.75.75 0 011.06 0z" fill="currentColor"></path>
-                            </svg>
-                        </button>
-                        <div class="submenu-wrapper" data-v-7d755f8c="">
-                            <div class="submenu" data-v-7d755f8c="">
-                                <a href="https://space.bilibili.com/395446863" target="_blank" data-v-7d755f8c="" data-v-100aafa2="">B站</a>
-                                <a href="https://xiaoma.cool" target="_blank" data-v-7d755f8c="" data-v-100aafa2="">博客</a>
-                            </div>
-                        </div>
-                    </div>
+<!--                    <div class="dropdown" data-v-7d755f8c="" data-v-100aafa2="" v-hover-class="'open'">-->
+<!--                        <button class="title" data-v-7d755f8c="">-->
+<!--                            教程-->
+<!--                            <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg" data-v-7d755f8c="">-->
+<!--                                <path fill-rule="evenodd" clip-rule="evenodd" d="M9.78.22a.75.75 0 010 1.06L5.53 5.53a.75.75 0 01-1.06 0L.22 1.28A.75.75 0 011.28.22L5 3.94 8.72.22a.75.75 0 011.06 0z" fill="currentColor"></path>-->
+<!--                            </svg>-->
+<!--                        </button>-->
+<!--                        <div class="submenu-wrapper" data-v-7d755f8c="">-->
+<!--                            <div class="submenu" data-v-7d755f8c="">-->
+<!--                                <a href="https://space.bilibili.com/395446863" target="_blank" data-v-7d755f8c="" data-v-100aafa2="">B站</a>-->
+<!--                                <a href="https://xiaoma.cool" target="_blank" data-v-7d755f8c="" data-v-100aafa2="">博客</a>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                    </div>-->
+                    <a href="https://space.bilibili.com/395446863" target="_blank" data-v-100aafa2="">B站</a>
+                    <a href="https://xiaoma.cool" target="_blank" data-v-100aafa2="">博客</a>
                     <a href="https://shop.githubedu.com" target="_blank" data-v-100aafa2="">商城</a>
                     <a style="cursor: pointer" @click="clickShouHou" data-v-100aafa2="">售后</a>
                     <!--                <a href="/sign_in" class="menu-button" data-v-100aafa2="">Sign in</a>-->
@@ -67,22 +69,24 @@
                                     </div>
                                 </div>
 
-                                <div tabindex="0" class="dropdown" data-v-538d6fa0="" data-v-4f6a3544="" v-click-small-list-class="'isOpen'">
-                                    <button class="title" data-v-538d6fa0="">
-                                        教程
-                                        <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg" data-v-538d6fa0="">
-                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M9.78.22a.75.75 0 010 1.06L5.53 5.53a.75.75 0 01-1.06 0L.22 1.28A.75.75 0 011.28.22L5 3.94 8.72.22a.75.75 0 011.06 0z" fill="currentColor"></path>
-                                        </svg>
-                                    </button>
-                                    <div data-v-538d6fa0="" class="submenu-wrapper initStyle">
-                                        <div data-v-538d6fa0="" class="submenu">
-                                            <a href="https://space.bilibili.com/395446863" target="_blank" data-v-4f6a3544="" data-v-538d6fa0="">B站</a>
-                                            <a href="https://xiaoma.cool" target="_blank" data-v-4f6a3544="" data-v-538d6fa0="">博客</a>
-                                        </div>
-                                    </div>
-                                </div>
+<!--                                <div tabindex="0" class="dropdown" data-v-538d6fa0="" data-v-4f6a3544="" v-click-small-list-class="'isOpen'">-->
+<!--                                    <button class="title" data-v-538d6fa0="">-->
+<!--                                        教程-->
+<!--                                        <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg" data-v-538d6fa0="">-->
+<!--                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M9.78.22a.75.75 0 010 1.06L5.53 5.53a.75.75 0 01-1.06 0L.22 1.28A.75.75 0 011.28.22L5 3.94 8.72.22a.75.75 0 011.06 0z" fill="currentColor"></path>-->
+<!--                                        </svg>-->
+<!--                                    </button>-->
+<!--                                    <div data-v-538d6fa0="" class="submenu-wrapper initStyle">-->
+<!--                                        <div data-v-538d6fa0="" class="submenu">-->
+<!--                                            <a href="https://space.bilibili.com/395446863" target="_blank" data-v-4f6a3544="" data-v-538d6fa0="">B站</a>-->
+<!--                                            <a href="https://xiaoma.cool" target="_blank" data-v-4f6a3544="" data-v-538d6fa0="">博客</a>-->
+<!--                                        </div>-->
+<!--                                    </div>-->
+<!--                                </div>-->
 
-                                <a href="https://shop.githubedu.com" data-v-4f6a3544="">商城</a>
+                                <a href="https://space.bilibili.com/395446863" target="_blank" data-v-4f6a3544="">B站</a>
+                                <a href="https://xiaoma.cool" target="_blank" data-v-4f6a3544="">博客</a>
+                                <a href="https://shop.githubedu.com" target="_blank" data-v-4f6a3544="">商城</a>
                                 <a style="cursor: pointer" @click="clickShouHou" data-v-4f6a3544="">售后</a>
                             </div>
                             <!--                        <div class="actions" data-v-4f6a3544="">-->
