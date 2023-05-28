@@ -24,24 +24,28 @@ export default {
             cards: [
                 {
                     image: "https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/gif/Midjourney.gif",
+                    // image: `${require('@/assets/main/gif/Midjourney.gif')}`,
                     title: "Midjourney",
                     titleClass: "title-white",
                     targetUrl: "https://chat.anybodyai.com"
                 },
                 {
                     image: "https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/gif/ChatGPTPlus.gif",
+                    // image: `${require('@/assets/main/gif/ChatGPTPlus.gif')}`,
                     title: "ChatGPT Plus",
                     titleClass: "title-white",
                     targetUrl: "https://chat.anybodyai.com"
                 },
                 {
                     image: "https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/gif/GitHubStudentPack.gif",
+                    // image: `${require('@/assets/main/gif/GitHubStudentPack.gif')}`,
                     title: "GitHub学生包",
                     titleClass: "title-white",
                     targetUrl: "https://githubedu.com"
                 },
                 {
                     image: "https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/gif/Jetbrains.gif",
+                    // image: `${require('@/assets/main/gif/Jetbrains.gif')}`,
                     title: "Jetbrains全家桶",
                     titleClass: "title-white",
                     targetUrl: "https://githubedu.com/jetbrains"
@@ -93,7 +97,7 @@ export default {
   font-family: sans-serif;
   font-weight: bold;
   font-size: 23px;
-  margin-top: -80px;
+  margin-top: -35px;
   height: 40px;
 }
 
