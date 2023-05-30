@@ -27,14 +27,14 @@ export default {
                     // image: `${require('@/assets/main/gif/Midjourney.gif')}`,
                     title: "Midjourney",
                     titleClass: "title-white",
-                    targetUrl: "https://chat.anybodyai.com"
+                    targetUrl: "https://ai.tgmeng.com"
                 },
                 {
                     image: "https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/gif/ChatGPTPlus.gif",
                     // image: `${require('@/assets/main/gif/ChatGPTPlus.gif')}`,
                     title: "ChatGPT Plus",
                     titleClass: "title-white",
-                    targetUrl: "https://chat.anybodyai.com"
+                    targetUrl: "https://ai.tgmeng.com"
                 },
                 {
                     image: "https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/gif/GitHubStudentPack.gif",
