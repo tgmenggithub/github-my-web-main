@@ -42,7 +42,7 @@
             <!--                        <li data-v-363e9324=""><a href="https://github.com/about/careers" data-v-363e9324="">Careers</a></li>-->
             <!--                        <li data-v-363e9324=""><a href="https://github.com/about/press" data-v-363e9324="">Press</a></li>-->
             <!--                        <li data-v-363e9324=""><a href="https://socialimpact.github.com/" data-v-363e9324="">Social impact</a></li>-->
-            <!--                        <li data-v-363e9324=""><a href="https://shop.github.com/" data-v-363e9324="">Shop</a></li>-->
+            <!--                        <li data-v-363e9324=""><a href="https://shop.tgmeng.com/" data-v-363e9324="">Shop</a></li>-->
             <!--                    </ul>-->
             <!--                </div>-->
             <!--            </div>-->
@@ -50,7 +50,7 @@
                 <div class="container" data-v-363e9324="">
                     <div class="legal" data-v-363e9324="">糖果梦 Inc. © {{ currentYear }}
                         <a href="https://xiaoma.cool" target="_blank" data-v-363e9324="">博客</a>
-                        <a href="https://shop.githubedu.com" target="_blank" data-v-363e9324="">商城</a>
+                        <a href="https://shop.tgmeng.com" target="_blank" data-v-363e9324="">商城</a>
                     </div>
                     <div class="social" data-v-363e9324="">
                         <div data-v-363e9324="" class="footer-img-style">

@@ -42,7 +42,7 @@
 <!--                    </div>-->
                     <a href="https://space.bilibili.com/395446863" target="_blank" data-v-100aafa2="">B站</a>
                     <a href="https://xiaoma.cool" target="_blank" data-v-100aafa2="">博客</a>
-                    <a href="https://shop.githubedu.com" target="_blank" data-v-100aafa2="">商城</a>
+                    <a href="https://shop.tgmeng.com" target="_blank" data-v-100aafa2="">商城</a>
                     <a style="cursor: pointer;color: #00fff3" @click="clickShouHou" data-v-100aafa2="">售后群</a>
                     <!--                <a href="/sign_in" class="menu-button" data-v-100aafa2="">Sign in</a>-->
                 </div>
@@ -86,7 +86,7 @@
 
                                 <a href="https://space.bilibili.com/395446863" target="_blank" data-v-4f6a3544="">B站</a>
                                 <a href="https://xiaoma.cool" target="_blank" data-v-4f6a3544="">博客</a>
-                                <a href="https://shop.githubedu.com" target="_blank" data-v-4f6a3544="">商城</a>
+                                <a href="https://shop.tgmeng.com" target="_blank" data-v-4f6a3544="">商城</a>
                                 <a style="cursor: pointer;color: red" @click="clickShouHou" data-v-4f6a3544="">售后群</a>
                             </div>
                             <!--                        <div class="actions" data-v-4f6a3544="">-->
