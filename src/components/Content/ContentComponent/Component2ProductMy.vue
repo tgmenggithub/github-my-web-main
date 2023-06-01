@@ -1,6 +1,17 @@
 <template>
     <div>
         <div class="cards-list">
+            <div class="card">
+                <a href="javascript:void(0);" style="height: 100%;width: 100%">
+                    <div class="card_image">
+                        <img src="https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg"/>
+                    </div>
+                    <div class="card_title title-white">
+                        <p></p>
+                    </div>
+                </a>
+            </div>
+
             <div class="card" v-for="(card, index) in cards" :key="index">
                 <a :href="card.targetUrl" target="_blank" style="height: 100%;width: 100%">
                     <div class="card_image">
