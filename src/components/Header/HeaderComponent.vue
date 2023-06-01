@@ -36,12 +36,12 @@
 <!--                        <div class="submenu-wrapper" data-v-7d755f8c="">-->
 <!--                            <div class="submenu" data-v-7d755f8c="">-->
 <!--                                <a href="https://space.bilibili.com/395446863" target="_blank" data-v-7d755f8c="" data-v-100aafa2="">B站</a>-->
-<!--                                <a href="https://xiaoma.cool" target="_blank" data-v-7d755f8c="" data-v-100aafa2="">博客</a>-->
+<!--                                <a href="https://blog.tgmeng.com" target="_blank" data-v-7d755f8c="" data-v-100aafa2="">博客</a>-->
 <!--                            </div>-->
 <!--                        </div>-->
 <!--                    </div>-->
                     <a href="https://space.bilibili.com/395446863" target="_blank" data-v-100aafa2="">B站</a>
-                    <a href="https://xiaoma.cool" target="_blank" data-v-100aafa2="">博客</a>
+                    <a href="https://blog.tgmeng.com" target="_blank" data-v-100aafa2="">博客</a>
                     <a href="https://shop.tgmeng.com" target="_blank" data-v-100aafa2="">商城</a>
                     <a style="cursor: pointer;color: #00fff3" @click="clickShouHou" data-v-100aafa2="">售后群</a>
                     <!--                <a href="/sign_in" class="menu-button" data-v-100aafa2="">Sign in</a>-->
@@ -79,13 +79,13 @@
 <!--                                    <div data-v-538d6fa0="" class="submenu-wrapper initStyle">-->
 <!--                                        <div data-v-538d6fa0="" class="submenu">-->
 <!--                                            <a href="https://space.bilibili.com/395446863" target="_blank" data-v-4f6a3544="" data-v-538d6fa0="">B站</a>-->
-<!--                                            <a href="https://xiaoma.cool" target="_blank" data-v-4f6a3544="" data-v-538d6fa0="">博客</a>-->
+<!--                                            <a href="https://blog.tgmeng.com" target="_blank" data-v-4f6a3544="" data-v-538d6fa0="">博客</a>-->
 <!--                                        </div>-->
 <!--                                    </div>-->
 <!--                                </div>-->
 
                                 <a href="https://space.bilibili.com/395446863" target="_blank" data-v-4f6a3544="">B站</a>
-                                <a href="https://xiaoma.cool" target="_blank" data-v-4f6a3544="">博客</a>
+                                <a href="https://blog.tgmeng.com" target="_blank" data-v-4f6a3544="">博客</a>
                                 <a href="https://shop.tgmeng.com" target="_blank" data-v-4f6a3544="">商城</a>
                                 <a style="cursor: pointer;color: red" @click="clickShouHou" data-v-4f6a3544="">售后群</a>
                             </div>

@@ -49,7 +49,7 @@
             <div class="extra" data-v-363e9324="">
                 <div class="container" data-v-363e9324="">
                     <div class="legal" data-v-363e9324="">糖果梦 Inc. © {{ currentYear }}
-                        <a href="https://xiaoma.cool" target="_blank" data-v-363e9324="">博客</a>
+                        <a href="https://blog.tgmeng.com" target="_blank" data-v-363e9324="">博客</a>
                         <a href="https://shop.tgmeng.com" target="_blank" data-v-363e9324="">商城</a>
                     </div>
                     <div class="social" data-v-363e9324="">
