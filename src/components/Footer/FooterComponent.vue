@@ -54,7 +54,7 @@
                     </div>
                     <div class="social" data-v-363e9324="">
                         <div data-v-363e9324="" class="footer-img-style">
-                            <a href="https://ai.tgmeng.com" target="_blank" data-v-363e9324="">
+                            <a href="https://ai.tgmeng.com/drawer" target="_blank" data-v-363e9324="">
                                 <img src="../../assets/main/img/footer_img_midjourney.png" alt="Midjourney" data-v-363e9324="">
                             </a>
                         </div>

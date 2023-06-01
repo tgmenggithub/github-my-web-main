@@ -27,7 +27,7 @@ export default {
                     // image: `${require('@/assets/main/gif/Midjourney.gif')}`,
                     title: "Midjourney",
                     titleClass: "title-white",
-                    targetUrl: "https://ai.tgmeng.com"
+                    targetUrl: "https://ai.tgmeng.com/drawer"
                 },
                 {
                     image: "https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/gif/ChatGPTPlus.gif",
