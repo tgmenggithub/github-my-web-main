@@ -7,7 +7,7 @@
                         <img src="https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg"/>
                     </div>
                     <div class="card_title title-white">
-                        <p></p>
+                        <p>进售后群,享受优惠</p>
                     </div>
                 </a>
             </div>
@@ -108,7 +108,7 @@ export default {
   font-family: sans-serif;
   font-weight: bold;
   font-size: 23px;
-  margin-top: -35px;
+  margin-top: 5px;
   height: 40px;
 }
 
