@@ -43,7 +43,7 @@ export default {
                 {
                     image: "https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/gif/ChatGPTPlus.gif",
                     // image: `${require('@/assets/main/gif/ChatGPTPlus.gif')}`,
-                    title: "Chat-GPT Plus",
+                    title: "GPT Plus",
                     titleClass: "title-white",
                     targetUrl: "https://ai.tgmeng.com"
                 },
