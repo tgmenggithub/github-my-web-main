@@ -38,14 +38,14 @@ export default {
                     // image: `${require('@/assets/main/gif/Midjourney.gif')}`,
                     title: "Midjourney",
                     titleClass: "title-white",
-                    targetUrl: "https://ai.tgmeng.com/drawer"
+                    targetUrl: "https://bot.tgmeng.com/drawer"
                 },
                 {
                     image: "https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/gif/ChatGPTPlus.gif",
                     // image: `${require('@/assets/main/gif/ChatGPTPlus.gif')}`,
                     title: "GPT Plus",
                     titleClass: "title-white",
-                    targetUrl: "https://ai.tgmeng.com"
+                    targetUrl: "https://bot.tgmeng.com"
                 },
                 {
                     image: "https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/gif/GitHubStudentPack.gif",

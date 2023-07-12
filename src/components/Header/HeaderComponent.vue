@@ -20,8 +20,8 @@
                         <div class="submenu-wrapper" data-v-7d755f8c="">
                             <div class="submenu" data-v-7d755f8c="">
                                 <a href="https://githubedu.com" target="_blank" data-v-7d755f8c="" data-v-100aafa2="">GitHub Student Pack</a>
-                                <a href="https://ai.tgmeng.com" target="_blank" data-v-7d755f8c="" data-v-100aafa2="">GPT Plus</a>
-                                <a href="https://ai.tgmeng.com/drawer" target="_blank" data-v-7d755f8c="" data-v-100aafa2="">Midjourney</a>
+                                <a href="https://bot.tgmeng.com" target="_blank" data-v-7d755f8c="" data-v-100aafa2="">GPT Plus</a>
+                                <a href="https://bot.tgmeng.com/drawer" target="_blank" data-v-7d755f8c="" data-v-100aafa2="">Midjourney</a>
                                 <a href="https://githubedu.com/jetbrains" target="_blank" data-v-7d755f8c="" data-v-100aafa2="">Jetbrains</a>
                             </div>
                         </div>
@@ -62,8 +62,8 @@
                                     <div data-v-538d6fa0="" class="submenu-wrapper initStyle">
                                         <div data-v-538d6fa0="" class="submenu">
                                             <a href="https://githubedu.com" target="_blank" data-v-4f6a3544="" data-v-538d6fa0="">GitHub Student Pack</a>
-                                            <a href="https://ai.tgmeng.com" target="_blank" data-v-4f6a3544="" data-v-538d6fa0="">GPT Plus</a>
-                                            <a href="https://ai.tgmeng.com/drawer" target="_blank" data-v-4f6a3544="" data-v-538d6fa0="">Midjourney</a>
+                                            <a href="https://bot.tgmeng.com" target="_blank" data-v-4f6a3544="" data-v-538d6fa0="">GPT Plus</a>
+                                            <a href="https://bot.tgmeng.com/drawer" target="_blank" data-v-4f6a3544="" data-v-538d6fa0="">Midjourney</a>
                                             <a href="https://githubedu.com/jetbrains" target="_blank" data-v-4f6a3544="" data-v-538d6fa0="">Jetbrains</a>
                                         </div>
                                     </div>
