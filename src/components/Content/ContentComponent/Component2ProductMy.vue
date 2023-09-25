@@ -4,7 +4,7 @@
             <div class="card">
                 <a href="javascript:void(0);" style="height: 100%;width: 100%">
                     <div class="card_image">
-                        <img src="https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg"/>
+                        <img src="https://public-1305951218.cos.ap-shanghai.myqcloud.com/shouhou/copilot/shouhouqun.jpg"/>
                     </div>
                     <div class="card_title title-white">
                         <p>进售后群,享受优惠</p>

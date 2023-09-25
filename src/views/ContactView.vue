@@ -23,7 +23,7 @@ export default {
         return {
             cards: [
                 {
-                    image: "https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg",
+                    image: "https://public-1305951218.cos.ap-shanghai.myqcloud.com/shouhou/copilot/shouhouqun.jpg",
                     title: "进售后群，永不失联",
                     titleClass: "title-white"
                 },
