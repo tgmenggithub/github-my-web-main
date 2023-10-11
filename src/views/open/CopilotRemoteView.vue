@@ -145,12 +145,12 @@ export default {
         },
         timestampToDate(row, column, value) {
             if (value !== null && value !== undefined) {
-                return dateUtil.timestampToDate(value);
+                return value === 0 ? "未激活":dateUtil.timestampToDate(value);
             }
         },
         timestampToDay(row, column, value) {
             if (value !== null && value !== undefined) {
-                return dateUtil.timestampToDay(value);
+                return dateUtil.timestampToDay(value) > -3000 ? dateUtil.timestampToDay(value):"未激活";
             }
         },
         dateToFormat(row, column, value) {
