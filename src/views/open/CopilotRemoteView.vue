@@ -125,6 +125,8 @@ export default {
                         duration: 0,
                         dangerouslyUseHTMLString: true
                     })
+                    this.keyRecordTableData = ''
+                    this.keyRecordDeviceBindTableData = ''
                 }
             })
         },
