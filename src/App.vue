@@ -1,11 +1,15 @@
 <template>
     <div>
-        <MainView></MainView>
+        <CopilotRemoteView v-if="locationIsCopilotRemote"></CopilotRemoteView>
+        <MainView v-else></MainView>
     </div>
 </template>
 
 <script setup>
 import MainView from "@/views/MainView.vue";
+import CopilotRemoteView  from "@/views/open/CopilotRemoteView.vue";
+
+const locationIsCopilotRemote = location.href.endsWith('copilotRemote') || location.href.endsWith('copilotRemote/');
 
 // 控制台检测
 (function () {

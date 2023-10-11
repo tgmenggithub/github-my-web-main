@@ -1,9 +1,9 @@
 import axios from "axios";
 
-export function request(config) {
+export function requestForCopilotRemote(config) {
     const instance = axios.create({
-        // baseURL: 'http://127.0.0.1:18544/github',
-        baseURL: 'https://githubedu.com/github',
+        baseURL: 'http://121.5.131.183:18686/copilotremote',
+        // baseURL: 'http://127.0.0.1:18686/copilotremote',
         timeout: 600000
     })
 

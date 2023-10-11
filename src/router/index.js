@@ -1,7 +1,11 @@
-import {createRouter,  createWebHistory} from 'vue-router'
+import {createRouter,  createWebHistory} from 'vue-router';
+import CopilotRemoteView from "@/views/open/CopilotRemoteView.vue";
 
 const routes = [
   {
+    path: '/copilotRemote',
+    name: 'copilotRemote',
+    component: CopilotRemoteView
   },
 ]
 
