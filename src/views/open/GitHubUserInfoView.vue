@@ -14,7 +14,7 @@
                               max-height="600px"
                               class="table"
                               :header-cell-style="{background:'#eef1f6',color:'#606266'}"
-                              empty-text="暂时没有数据">
+                              empty-text="正在查询数据，请等待">
                         <el-table-column prop="name" label="Name"/>
                         <el-table-column prop="firstName" label="First name"/>
                         <el-table-column prop="lastName" label="Last name"/>
