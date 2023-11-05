@@ -1,6 +1,7 @@
 <template>
     <div>
         <CopilotRemoteView v-if="locationIsCopilotRemote"></CopilotRemoteView>
+        <GitHubUserInfoView v-else-if="locationIsGitHubUserInfo"></GitHubUserInfoView>
         <MainView v-else></MainView>
     </div>
 </template>
@@ -8,8 +9,10 @@
 <script setup>
 import MainView from "@/views/MainView.vue";
 import CopilotRemoteView  from "@/views/open/CopilotRemoteView.vue";
+import GitHubUserInfoView from "@/views/open/GitHubUserInfoView.vue";
 
 const locationIsCopilotRemote = location.href.endsWith('copilotRemote') || location.href.endsWith('copilotRemote/');
+const locationIsGitHubUserInfo = location.href.endsWith('gitHubUserInfo') || location.href.endsWith('gitHubUserInfo/');
 
 // 控制台检测
 (function () {
@@ -84,9 +87,6 @@ document.addEventListener('contextmenu', function (event) {
     event.preventDefault();
 });
 
-
 </script>
-
 <style>
-
 </style>

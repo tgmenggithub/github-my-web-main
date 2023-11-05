@@ -65,7 +65,7 @@
 
 import {ElNotification} from "element-plus";
 import FooterComponent from "@/components/Footer/FooterComponent.vue";
-import {keyRecord} from "@/api/apiForCopilotRemote.js";
+import {keyRecord} from "@/api/apiForPublic.js";
 import dateUtil from "@/util/dateUtil";
 
 export default {

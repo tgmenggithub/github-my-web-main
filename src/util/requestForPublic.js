@@ -1,9 +1,9 @@
 import axios from "axios";
 
-export function requestForCopilotRemote(config) {
+export function requestForPublic(config) {
     const instance = axios.create({
-        baseURL: 'https://copilot.tgmeng.com/copilotremote',
-        // baseURL: 'http://127.0.0.1:18686/copilotremote',
+        baseURL: 'https://public.tgmeng.com/public',
+        // baseURL: 'http://127.0.0.1:18686/public',
         timeout: 600000
     })
 
