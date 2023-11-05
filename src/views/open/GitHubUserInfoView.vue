@@ -305,14 +305,14 @@ export default {
                         title: '查询成功',
                         message: '🎉🎉🎉恭喜查询成功，结果如下',
                         type: 'success',
-                        duration: 0,
+                        duration: 3000,
                         dangerouslyUseHTMLString: true
                     })
                 }else {
                     ElNotification.closeAll()
                     ElNotification({
-                        title: '查询成功',
-                        message: '🤣授权码无效，请重新检查',
+                        title: '查询失败',
+                        message: '🤣查询失败，请联系管理员',
                         type: 'warning',
                         duration: 0,
                         dangerouslyUseHTMLString: true
