@@ -61,10 +61,10 @@
                                     </button>
                                     <div data-v-538d6fa0="" class="submenu-wrapper initStyle">
                                         <div data-v-538d6fa0="" class="submenu">
+                                            <a href="https://shop.githubedu.com" target="_blank" data-v-4f6a3544="" data-v-538d6fa0="">Copilot</a>
+                                            <a href="https://shop.githubedu.com" target="_blank" data-v-4f6a3544="" data-v-538d6fa0="">Jetbrains</a>
                                             <a href="https://githubedu.com" target="_blank" data-v-4f6a3544="" data-v-538d6fa0="">GitHub Student Pack</a>
-                                            <a href="https://bot.tgmeng.com" target="_blank" data-v-4f6a3544="" data-v-538d6fa0="">GPT Plus</a>
-                                            <a href="https://bot.tgmeng.com/drawer" target="_blank" data-v-4f6a3544="" data-v-538d6fa0="">Midjourney</a>
-                                            <a href="https://githubedu.com/jetbrains" target="_blank" data-v-4f6a3544="" data-v-538d6fa0="">Jetbrains</a>
+                                            <a href="https://bot.tgmeng.com" target="_blank" data-v-4f6a3544="" data-v-538d6fa0="">Chat GPT</a>
                                         </div>
                                     </div>
                                 </div>

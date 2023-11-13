@@ -34,18 +34,18 @@ export default {
         return {
             cards: [
                 {
-                    image: "https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/gif/Midjourney.gif",
-                    // image: `${require('@/assets/main/gif/Midjourney.gif')}`,
-                    title: "Midjourney",
+                    image: "https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/gif/Copilot.gif",
+                    // image: `${require('@/assets/main/gif/Copilot.gif')}`,
+                    title: "Copilot授权",
                     titleClass: "title-white",
-                    targetUrl: "https://bot.tgmeng.com/drawer"
+                    targetUrl: "https://shop.githubedu.com"
                 },
                 {
-                    image: "https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/gif/ChatGPTPlus.gif",
-                    // image: `${require('@/assets/main/gif/ChatGPTPlus.gif')}`,
-                    title: "GPT Plus",
+                    image: "https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/gif/Jetbrains.gif",
+                    // image: `${require('@/assets/main/gif/Jetbrains.gif')}`,
+                    title: "Jetbrains全家桶",
                     titleClass: "title-white",
-                    targetUrl: "https://bot.tgmeng.com"
+                    targetUrl: "https://shop.githubedu.com"
                 },
                 {
                     image: "https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/gif/GitHubStudentPack.gif",
@@ -55,11 +55,11 @@ export default {
                     targetUrl: "https://githubedu.com"
                 },
                 {
-                    image: "https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/gif/Jetbrains.gif",
-                    // image: `${require('@/assets/main/gif/Jetbrains.gif')}`,
-                    title: "Jetbrains全家桶",
+                    image: "https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/gif/ChatGPTPlus.gif",
+                    // image: `${require('@/assets/main/gif/ChatGPTPlus.gif')}`,
+                    title: "Chat GPT",
                     titleClass: "title-white",
-                    targetUrl: "https://githubedu.com/jetbrains"
+                    targetUrl: "https://bot.tgmeng.com"
                 },
             ]
         };
