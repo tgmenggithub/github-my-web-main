@@ -19,10 +19,12 @@
                         </button>
                         <div class="submenu-wrapper" data-v-7d755f8c="">
                             <div class="submenu" data-v-7d755f8c="">
+                                <a href="https://shop.githubedu.com" target="_blank" data-v-7d755f8c="" data-v-100aafa2="">福利产品</a>
+                                <a href="https://shop.githubedu.com" target="_blank" data-v-7d755f8c="" data-v-100aafa2="">Copilot</a>
+                                <a href="https://shop.githubedu.com" target="_blank" data-v-7d755f8c="" data-v-100aafa2="">Jetbrains</a>
                                 <a href="https://githubedu.com" target="_blank" data-v-7d755f8c="" data-v-100aafa2="">GitHub Student Pack</a>
                                 <a href="https://bot.tgmeng.com" target="_blank" data-v-7d755f8c="" data-v-100aafa2="">GPT Plus</a>
                                 <a href="https://bot.tgmeng.com/drawer" target="_blank" data-v-7d755f8c="" data-v-100aafa2="">Midjourney</a>
-                                <a href="https://githubedu.com/jetbrains" target="_blank" data-v-7d755f8c="" data-v-100aafa2="">Jetbrains</a>
                             </div>
                         </div>
                     </div>
