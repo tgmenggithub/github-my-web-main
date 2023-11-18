@@ -34,7 +34,7 @@ export default {
         return {
             cards: [
                 {
-                    image: "https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/gif/Copilot.gif",
+                    image: "https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/gif/Gift.gif",
                     // image: `${require('@/assets/main/gif/Copilot.gif')}`,
                     title: "福利产品",
                     titleClass: "title-white",
