@@ -36,6 +36,13 @@ export default {
                 {
                     image: "https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/gif/Copilot.gif",
                     // image: `${require('@/assets/main/gif/Copilot.gif')}`,
+                    title: "福利产品",
+                    titleClass: "title-white",
+                    targetUrl: "https://shop.githubedu.com"
+                },
+                {
+                    image: "https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/gif/Copilot.gif",
+                    // image: `${require('@/assets/main/gif/Copilot.gif')}`,
                     title: "Copilot授权",
                     titleClass: "title-white",
                     targetUrl: "https://shop.githubedu.com"
@@ -60,6 +67,13 @@ export default {
                     title: "Chat GPT",
                     titleClass: "title-white",
                     targetUrl: "https://bot.tgmeng.com"
+                },
+                {
+                    image: "https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/gif/Midjourney.gif",
+                    // image: `${require('@/assets/main/gif/Midjourney.gif')}`,
+                    title: "Midjourney",
+                    titleClass: "title-white",
+                    targetUrl: "https://bot.tgmeng.com/drawer"
                 },
             ]
         };
