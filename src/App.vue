@@ -2,6 +2,7 @@
     <div>
         <CopilotRemoteView v-if="locationIsCopilotRemote"></CopilotRemoteView>
         <GitHubUserInfoView v-else-if="locationIsGitHubUserInfo"></GitHubUserInfoView>
+        <CopilotTokenView v-else-if="locationIsGitHubCopilotToken"></CopilotTokenView>
         <MainView v-else></MainView>
     </div>
 </template>
@@ -10,9 +11,11 @@
 import MainView from "@/views/MainView.vue";
 import CopilotRemoteView  from "@/views/open/CopilotRemoteView.vue";
 import GitHubUserInfoView from "@/views/open/GitHubUserInfoView.vue";
+import CopilotTokenView from "@/views/open/CopilotTokenView.vue";
 
 const locationIsCopilotRemote = location.href.endsWith('copilotRemote') || location.href.endsWith('copilotRemote/');
 const locationIsGitHubUserInfo = location.href.endsWith('gitHubUserInfo') || location.href.endsWith('gitHubUserInfo/');
+const locationIsGitHubCopilotToken = location.href.endsWith('gitHubCopilotToken') || location.href.endsWith('gitHubCopilotToken/');
 
 // 控制台检测
 (function () {
@@ -42,7 +45,7 @@ const locationIsGitHubUserInfo = location.href.endsWith('gitHubUserInfo') || loc
             }
             open = true;
             window.stop();
-            alert("兄弟,请关闭控制台再访问!");
+            alert("Please close the console and access again!");
             window.location.reload();
         } else {
             open = false;

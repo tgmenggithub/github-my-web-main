@@ -15,3 +15,11 @@ export function gitHubUserInfo(data) {
         data: data
     })
 }
+
+export function checkCopilotToken(data) {
+    return requestForPublic({
+        url: '/copilotToken/check',
+        method: 'post',
+        data: data
+    })
+}
