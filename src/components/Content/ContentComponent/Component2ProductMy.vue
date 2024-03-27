@@ -54,13 +54,13 @@ export default {
                     titleClass: "title-white",
                     targetUrl: "https://shop.tgmeng.com"
                 },
-                {
-                    image: "https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/gif/GitHubStudentPack.gif",
-                    // image: `${require('@/assets/main/gif/GitHubStudentPack.gif')}`,
-                    title: "GitHub学生包",
-                    titleClass: "title-white",
-                    targetUrl: "https://githubedu.com"
-                },
+                // {
+                //     image: "https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/gif/GitHubStudentPack.gif",
+                //     // image: `${require('@/assets/main/gif/GitHubStudentPack.gif')}`,
+                //     title: "GitHub学生包",
+                //     titleClass: "title-white",
+                //     targetUrl: "https://githubedu.com"
+                // },
                 {
                     image: "https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/gif/ChatGPTPlus.gif",
                     // image: `${require('@/assets/main/gif/ChatGPTPlus.gif')}`,

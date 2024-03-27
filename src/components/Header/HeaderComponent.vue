@@ -22,7 +22,7 @@
                                 <a href="https://shop.tgmeng.com" target="_blank" data-v-7d755f8c="" data-v-100aafa2="">福利产品</a>
                                 <a href="https://shop.tgmeng.com" target="_blank" data-v-7d755f8c="" data-v-100aafa2="">Copilot</a>
                                 <a href="https://shop.tgmeng.com" target="_blank" data-v-7d755f8c="" data-v-100aafa2="">Jetbrains</a>
-                                <a href="https://githubedu.com" target="_blank" data-v-7d755f8c="" data-v-100aafa2="">GitHub Student Pack</a>
+<!--                                <a href="https://githubedu.com" target="_blank" data-v-7d755f8c="" data-v-100aafa2="">GitHub Student Pack</a>-->
                                 <a href="https://bot.tgmeng.com" target="_blank" data-v-7d755f8c="" data-v-100aafa2="">GPT Plus</a>
                                 <a href="https://bot.tgmeng.com/drawer" target="_blank" data-v-7d755f8c="" data-v-100aafa2="">Midjourney</a>
                             </div>
@@ -65,7 +65,7 @@
                                         <div data-v-538d6fa0="" class="submenu">
                                             <a href="https://shop.tgmeng.com" target="_blank" data-v-4f6a3544="" data-v-538d6fa0="">Copilot</a>
                                             <a href="https://shop.tgmeng.com" target="_blank" data-v-4f6a3544="" data-v-538d6fa0="">Jetbrains</a>
-                                            <a href="https://githubedu.com" target="_blank" data-v-4f6a3544="" data-v-538d6fa0="">GitHub Student Pack</a>
+<!--                                            <a href="https://githubedu.com" target="_blank" data-v-4f6a3544="" data-v-538d6fa0="">GitHub Student Pack</a>-->
                                             <a href="https://bot.tgmeng.com" target="_blank" data-v-4f6a3544="" data-v-538d6fa0="">Chat GPT</a>
                                         </div>
                                     </div>
