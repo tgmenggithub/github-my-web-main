@@ -68,11 +68,11 @@
                                 <img src="../../assets/main/img/footer_img_jetbrains.png" alt="Jetbrains全家桶" data-v-363e9324="">
                             </a>
                         </div>
-                        <div data-v-363e9324="" class="footer-img-style">
-                            <a href="https://githubedu.com" target="_blank" data-v-363e9324="">
-                                <img src="../../assets/main/img/footer_img_student_pack.png" alt="GitHub学生包" data-v-363e9324="">
-                            </a>
-                        </div>
+<!--                        <div data-v-363e9324="" class="footer-img-style">-->
+<!--                            <a href="https://githubedu.com" target="_blank" data-v-363e9324="">-->
+<!--                                <img src="../../assets/main/img/footer_img_student_pack.png" alt="GitHub学生包" data-v-363e9324="">-->
+<!--                            </a>-->
+<!--                        </div>-->
                         <div data-v-363e9324="" class="footer-img-style">
                             <a href="https://bot.tgmeng.com" target="_blank" data-v-363e9324="">
                                 <img src="../../assets/main/img/footer_img_openai.png" alt="ChatGPT Plus" data-v-363e9324="">
