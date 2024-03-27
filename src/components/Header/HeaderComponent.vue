@@ -45,7 +45,7 @@
                     <a href="https://space.bilibili.com/395446863" target="_blank" data-v-100aafa2="">B站</a>
                     <a href="https://blog.tgmeng.com" target="_blank" data-v-100aafa2="">博客</a>
                     <a href="https://shop.tgmeng.com" target="_blank" data-v-100aafa2="">商城</a>
-                    <a style="cursor: pointer;color: #00fff3" @click="clickShouHou" data-v-100aafa2="">售后群</a>
+                    <a style="cursor: pointer" @click="clickShouHou" data-v-100aafa2="">售后群</a>
                     <!--                <a href="/sign_in" class="menu-button" data-v-100aafa2="">Sign in</a>-->
                 </div>
                 <div class="menu-mobile" ref="openButton" data-v-4f6a3544="" data-v-83148ee2="">
@@ -89,7 +89,7 @@
                                 <a href="https://space.bilibili.com/395446863" target="_blank" data-v-4f6a3544="">B站</a>
                                 <a href="https://blog.tgmeng.com" target="_blank" data-v-4f6a3544="">博客</a>
                                 <a href="https://shop.tgmeng.com" target="_blank" data-v-4f6a3544="">商城</a>
-                                <a style="cursor: pointer;color: red" @click="clickShouHou" data-v-4f6a3544="">售后群</a>
+                                <a style="cursor: pointer" @click="clickShouHou" data-v-4f6a3544="">售后群</a>
                             </div>
                             <!--                        <div class="actions" data-v-4f6a3544="">-->
                             <!--                            <a href="/sign_in" class="menu-button" data-v-4f6a3544="">Sign in</a>-->
