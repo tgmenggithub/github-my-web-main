@@ -17,7 +17,7 @@ const locationIsCopilotRemote = location.href.endsWith('copilotRemote') || locat
 const locationIsGitHubUserInfo = location.href.endsWith('gitHubUserInfo') || location.href.endsWith('gitHubUserInfo/');
 const locationIsGitHubCopilotToken = location.href.endsWith('gitHubCopilotToken') || location.href.endsWith('gitHubCopilotToken/');
 
-// 控制台检测
+// 控制台检测 测试
 (function () {
     var fn = [],
         timeLimit = 50,
