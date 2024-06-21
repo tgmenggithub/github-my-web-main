@@ -40,13 +40,13 @@ export default {
                 //     titleClass: "title-white",
                 //     targetUrl: "https://shop.tgmeng.com"
                 // },
-                {
-                    image: "https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/gif/Copilot.gif",
-                    // image: `${require('@/assets/main/gif/Copilot.gif')}`,
-                    title: "Copilot授权",
-                    titleClass: "title-white",
-                    targetUrl: "https://shop.tgmeng.com"
-                },
+                // {
+                //     image: "https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/gif/Copilot.gif",
+                //     // image: `${require('@/assets/main/gif/Copilot.gif')}`,
+                //     title: "Copilot授权",
+                //     titleClass: "title-white",
+                //     targetUrl: "https://shop.tgmeng.com"
+                // },
                 {
                     image: "https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/gif/Jetbrains.gif",
                     // image: `${require('@/assets/main/gif/Jetbrains.gif')}`,
